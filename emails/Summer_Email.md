@@ -7,7 +7,7 @@ The chief importance of this change is that everybody can now see all the issues
 
 Lastly on communication, consider joining the McGill Computer Science Facebook group [here](). This is an active community, and, while there is a lot of trolling and buffoonery, it's a good place to find out what's going on. We will be emailing you without any particular frequency next year. There won't be a weekly email. 
 
-<!-- No weekly emails? -->
+<!-- No weekly emails? Why's this? -->
 
 We'll contact you if we have something interesting to say or feel there's something you should know about.
 
