@@ -36,7 +36,7 @@ No member is empowered to act as an agent of the CSUS unless permission to so ac
 
 ## Finances of the CSUS
 
-1. The fiscal year of the Society shall from April 15th to April 14th of the following year.
+1. The fiscal year of the Society is from April 15th to April 14th of the following year.
 
 2. The budget of the CSUS for the current fiscal year will be presented to the SUS no later than October 1st.
 

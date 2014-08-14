@@ -1,0 +1,56 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Sleek, Extensible Journal Article
+% LaTeX Template
+% Version 0.1
+% Date 01/05/2014
+%
+% Original author:
+% Calem Bendell
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[paper=128mm:96mm, fontsize=11pt, pagesize]{scrartcl}
+
+\linespread{1.12}
+
+\usepackage{soul}
+\usepackage[default]{cabin}
+\linespread{1.05}
+\usepackage{microtype}
+
+\setlength{\parskip}{0pt}
+
+\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption}
+\usepackage[hidelinks, colorlinks=true]{hyperref}
+\usepackage{booktabs, float, paralist, abstract, titling, enumitem, graphicx}
+\usepackage[compact]{titlesec}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage[flushmargin,hang,multiple]{footmisc}
+\interfootnotelinepenalty=10000
+
+\usepackage[top=4em, bottom=4em, left=3em, right=3em]{geometry}
+
+\renewcommand{\abstractnamefont}{\normalfont\large\sffamily}
+\renewcommand{\abstracttextfont}{\normalfont\itshape}
+
+\titleformat{\section}
+  {\normalfont\LARGE}{}{0pt}{\LARGE}
+\titleformat*{\subsection}{\large\sffamily}
+\titleformat*{\subsubsection}{\itshape\sffamily}
+\titleformat*{\paragraph}{\large\bfseries\sffamily}
+\titleformat*{\subparagraph}{\large\bfseries\sffamily}
+
+\setlist[description]{format=\normalfont\itshape}
+
+\renewcommand{\maketitle}{\noindent\rule{\linewidth}{1pt}\Huge \vspace{1em} \newline
+\sffamily \scshape \thetitle \\
+\normalfont \sffamily  \theauthor \\
+\thedate
+\newline\noindent\rule{\linewidth}{1pt}
+\normalfont
+\normalsize}
+
+\pagestyle{empty}
