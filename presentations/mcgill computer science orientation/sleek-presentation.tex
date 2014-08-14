@@ -21,6 +21,12 @@
 \linespread{1.05}
 \usepackage{microtype}
 
+\usepackage{fancyhdr}
+\lhead{McGill CSUS}
+\rhead{Orientation Presentation \thepage}
+\cfoot{}
+\rfoot{\includegraphics[height=2em]{gfx/logo.pdf}}
+
 \setlength{\parskip}{0pt}
 
 \usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption}
@@ -31,7 +37,7 @@
 \usepackage[flushmargin,hang,multiple]{footmisc}
 \interfootnotelinepenalty=10000
 
-\usepackage[top=4em, bottom=4em, left=3em, right=3em]{geometry}
+\usepackage[top=4em, bottom=5em, left=3em, right=3em]{geometry}
 
 \renewcommand{\abstractnamefont}{\normalfont\large\sffamily}
 \renewcommand{\abstracttextfont}{\normalfont\itshape}
@@ -54,4 +60,4 @@
 \normalfont
 \normalsize}
 
-\pagestyle{empty}
+\pagestyle{fancy}
