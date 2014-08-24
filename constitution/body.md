@@ -50,19 +50,15 @@ English and French are the official languages of the Society and all meetings ma
 
 The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, VP Sustainability, VP Events, and U1 representative.
 
-Members of the Executive Council must be members of CSUS for the entire duration of their mandate and cannot receive financial remuneration for the fulfillment of their mandate.
-
 ## Powers and Duties
 
-1. The Executive Council defines all general policies of CSUS, coordinate and administer the policies and affirs of CSUS,  act as the governing body of CSUS, be held accountable in general assembly and execute general assembly decisions, approve/reject budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, create or dissolve CSUS committees, uphold the constitution, determine the membership fee of membership of the society, and appoint the Chief Returning Office.
+1. The Executive Council defines all general policies of CSUS, coordinates and administers the policies and affairs of CSUS,  acts as the governing body of CSUS, executes general assembly decisions, approves/rejects budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, creates or dissolves CSUS committees, determines the membership fee of membership of the society, and appoints the Chief Returning Office.
 
-2. Signing powers of the Society shall are exercised by at least two of the President, the Vice-President Finance, and the Vice-President Administration or by any five executive council members.
-
-3. Each member of the Executive Council shall prepare and submit to the Executive Council a year-end report no later than April 14th.
+2. Signing powers of the Society shall are exercised by at least two of the President, the VP Finance, the VP Administration, and the VP Academic or by any four executive council members.
 
 ## President
 
-The President shall coordinate and supervise the affairs of the Society, call and chair over the Executive Council meetings, chair General Assemblies, serve as an ex-officio member of all Society committees, be the official representative of the Society, and be adminstrator of revision control repositories and other documents.
+The President will coordinate and supervise the affairs of the Society, call and chair over the Executive Council meetings, chair General Assemblies, serve as an ex-officio member of all Society committees, be the official representative of the Society, and be adminstrator of revision control repositories and other documents.
 
 ## Vice-President External
 
@@ -89,27 +85,26 @@ The Vice-President Administration will be responsible for preparing and issuing 
 
 ## U1 Representative
 
-The U1 Representative swill act as liaison between the U1 students and the Executive Council; represent the views of the Ul students at meetings of the Executive Council; hold a meeting of the Ul students when necessary; serve on the University Academic Committee (UAC) as Vice-Chairperson; serve as the Vice-Chair of the Executive Council.
+The U1 Representative will act as liaison between the U1 students and the Executive Council; represent the views of the Ul students at meetings of the Executive Council; hold a meeting of the Ul students when necessary; serve on the University Academic Committee (UAC) as Vice-Chairperson; serve as the Vice-Chair of the Executive Council.
 
 ## Vice-President Sustainability
 
-The Vice-President Sustainability will be responsible for ensuring events and activities of CSUS are carried out in a sustainble fashion, determining how to maximise sustainability while minising cost; be responsible for promoting sustainability amongst the constituency; and create and promote sustainability events in conjunction with Vice-President Events.
+The Vice-President Sustainability will be responsible for ensuring events and activities of CSUS are carried out in a sustainble fashion, determining how to maximise sustainability while minising cost, be responsible for promoting sustainability amongst the constituency, and create and promote sustainability events in conjunction with Vice-President Events.
 
 ## Vice-President Diversity
 
-The Vice-President Diversity will be responsible promoting racial diversity and gender equity for CSUS; act as a liason to other diversity bodies outside of the university; and otherwise improve equity and respectfulness amongst the constituency however he/she sees fit.
+The Vice-President Diversity will be responsible promoting racial diversity and gender equity for CSUS, act as a liason to other diversity bodies outside of the university, and otherwise improve equity and respectfulness amongst the constituency.
 
 ## Vice-President Events
 
-The Vice-President Events will manage all events or delegating responsibility to manage events carried out by CSUS; minimise cost of events; and promote events.
+The Vice-President Events will manage all events or delegate responsibility to manage events carried out by CSUS, should an event not be handled by another member of CSUS, minimise cost of events, and promote events.
 
 
 ## Meetings of the Executive Council
 
 Quorum for a Regular meeting of CSUS Executive Council is four members and quorum for online interactions, where relevant, is six members.
-Each member of the Executive Council has a single vote, except for the President who votes only to break a tie.
+Each member of the Executive Council has a single vote, and the president decides the course of action in the instance of a tie.
 
-In case of an emergency, the President may call a special meeting at any time, provided that four fifths of executives are present, or upon the signing of a waiver of notice by all executives.
 
 ## Powers of Assembly
 
@@ -117,7 +112,7 @@ The General Assembly may make any decision, including the ratification or reject
 
 ## Meetings of the General Assembly
 
-1. The executive councilor may call a general assembly at any time.
+1. The executive council may call a general assembly at any time.
 
 2. Students should be notified of a general assembly at least 5 days prior the assembly.
 
@@ -133,29 +128,25 @@ The General Assembly may make any decision, including the ratification or reject
 
 ## Committees of CSUS
 
-1. Any member of CSUS is eligible to hold chair on a CSUS Committee.
+1. CSUS may create committees and subgroups as needed.
 
-2. Every committee produces a public year end report by April 1.  A revision control history for all of their documents will suffice.
-
-3. A Committee is defined by its own bylaws subject to approval by the Executive Council.
-
-4. A 3/5 majority vote is required to modify a committee's bylaws or existence.
+2. A committee's bylaws are initially created by CSUS and students interested in forming this committee and a 3/5 majority vote from the executive council modifies a committe's bylaws or existencee.
 
 ## Procedure
 
-A council may run its meetings as it sees fit.
-A council may also hold online meetings.
-All meetings are available to the public.
-All council documents must be public and under revision control.
+1. A council may run its meetings as deemed appropriate.
+
+2. A council may also hold online meetings.
+
+3. All meetings are available to the public.
+
+4. All council documents must be public and under revision control.
 
 ## Electoral Officer
 
 1. The Chief Returning Officer is responsible for administering elections.
 
-2. The CRO may not be a candidate in any Society election.  The Executive Council elects a new
-CRO subject to Article 28 if the CRO decides to run for a position.
-
-3. The CRO may be removed from office as specified in Article 25.
+2. The CRO may not be a candidate in any Society election.  The Executive Council elects a new CRO if the CRO decides to run for a position.
 
 ## Referenda
 
@@ -163,8 +154,7 @@ CRO subject to Article 28 if the CRO decides to run for a position.
 
 2. Referendums must be publicly available 6 days before vote and all details of the voting location, hours, etc. must also be posted.
 
-3. The Referendum shall be considered valid only if a minimum
-of thirty percent (30%) of CSUS members vote.
+3. The Referendum shall be considered valid only if a minimum of thirty percent (30%) of CSUS members vote.
 
 4. Referendums are passed by a majority of membership.
 
@@ -173,6 +163,7 @@ of thirty percent (30%) of CSUS members vote.
 ## Impeachment
 
 Council members are impeached by 2/3 vote of executive council or by a 25% vote of constituency.
+
 
 # Elections
 
@@ -184,13 +175,13 @@ Council members are impeached by 2/3 vote of executive council or by a 25% vote 
 
 ## Procedures
 
-Elections are held between the first and last days of March excepting for the U1 rep, who is elected between the first and last days of September.
+Elections are held between the first and last days of March excepting the U1 rep, who is appointed between the first and last days of September.
 Vacancies are filled by elections at the discretion of the CRO.
 Elections can also be initiated and administered collectively by the executive committee by a 2/3 vote to fill vacancies and such elections will run for fifteen days starting from the day of the vote.
 
 ## Terms of Office
 
-The terms for members of the Executive Council are from the April 15 and last one year excepting the U1 rep, who starts on the day he/she is elected.
+The terms for members of the Executive Council are from the April 15 and last one year excepting the U1 rep, who starts on the day of election or selection.
 
 ## Order of Succession
 
