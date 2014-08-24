@@ -11,12 +11,10 @@ CSUS may receive external funding and is free to independently administer this f
 In English, the society is "Computer Science Undergraduate Society of McGill University," and in French it is "L'Association des Etudiants et Etudiantes en Informatique de L'Universite McGill".
 These will be referred to as CSUS and AEIM respectively throughout this document.
 
-
 ## Membership
 
-Membership of the CSUS is all students registered in an Undergraduate programme in the School of Computer Science at McGill University, given payment of fees prescribed in Article 4.
-Any student registered in a Computer Science Major or Computer Science Honours programme is considered a member. Students registered in a Computer Science Minor or Computer Science Joint Honours may be granted membership
-by the Executive Council subject to Article 4 (payment).
+CSUS' membership is all students registered in an Undergraduate programme in the School of Computer Science at McGill University, given payment of fees prescribed in Article 4.
+Any student registered in a Computer Science Major or Computer Science Honours programme is considered a member. Students may be granted membership by the Executive Council subject to Article 4 (payment).
 
 ## Purpose
 
