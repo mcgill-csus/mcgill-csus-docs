@@ -34,9 +34,8 @@ No member is empowered to act as an agent of CSUS unless permission to so act ha
 
 ## Finances of CSUS
 
-1. The fiscal year of the Society is April 15th -- April 14th of the following year.
-
-2. The accounts and inventory of CSUS, though not where the individual itmes of the inventory is kept, shall be publicly available at all times.
+The fiscal year of the Society is April 15th -- April 14th of the following year.
+The accounts and inventory of CSUS, though not where the individual itmes of the inventory is kept, will be publicly available at all times.
 
 ## Languages of the Society
 
@@ -52,9 +51,8 @@ The Executive Council consists of the President, Vice President (VP) Internal, V
 
 ## Powers and Duties
 
-1. The Executive Council defines all general policies of CSUS, coordinates and administers the policies and affairs of CSUS,  acts as the governing body of CSUS, executes general assembly decisions, approves/rejects budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, creates or dissolves CSUS committees, determines the membership fee of membership of the society, and appoints the Chief Returning Office.
-
-2. Signing powers of the Society shall are exercised by at least two of the President, the VP Finance, the VP Administration, and the VP Academic or by any four executive council members.
+The Executive Council defines all general policies of CSUS, coordinates and administers the policies and affairs of CSUS,  acts as the governing body of CSUS, executes general assembly decisions, approves/rejects budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, creates or dissolves CSUS committees, determines the membership fee of membership of the society, and appoints the Chief Returning Office.
+Signing powers of the Society shall are exercised by at least two of the President, the VP Finance, the VP Administration, and the VP Academic or by any four executive council members.
 
 ## President
 
@@ -104,7 +102,7 @@ The Vice-President Events will manage all events or delegate responsibility to m
 
 Quorum for a Regular meeting of CSUS Executive Council is four members and quorum for online interactions, where relevant, is six members.
 Each member of the Executive Council has a single vote, and the president decides the course of action in the instance of a tie.
-
+The council may run its meetings as deemed appropriate, all of which are available to the public.
 
 ## Powers of Assembly
 
@@ -131,16 +129,6 @@ The General Assembly may make any decision, including the ratification or reject
 1. CSUS may create committees and subgroups as needed.
 
 2. A committee's bylaws are initially created by CSUS and students interested in forming this committee and a 3/5 majority vote from the executive council modifies a committe's bylaws or existencee.
-
-## Procedure
-
-1. A council may run its meetings as deemed appropriate.
-
-2. A council may also hold online meetings.
-
-3. All meetings are available to the public.
-
-4. All council documents must be public and under revision control.
 
 ## Electoral Officer
 
@@ -189,23 +177,13 @@ If the need for succession arises, another executive may assume his or her dutie
 
 # The Constitution
 
-## Superseding Clause
-
 This Constitution supersedes and repeals all previous Constitutions.
-
-## Constitutional Amendments
-
 The Constitution of the society may only be amended by a referendum with a majority of two-thirds (2/3) of the voting members voting in favour.
-
-## Coming into force
-
 This constitutions comes into force immediately upon approval.
 
 # Bylaws
 
-## A Electoral Bylaws
-
-## A.1 Nomination Rules
+## Nomination Rules
 
 1. The CRO posts a list of positions open to nomination and election along with a time for the opening and closing of the nominations.
 
@@ -213,17 +191,17 @@ This constitutions comes into force immediately upon approval.
 
 3. The CRO validates the submitted nominations and publicises them within twelve hours of the closing of the nominations.
 
-## A.2 Campaigning Rules
+## Campaigning Rules
 
 The CRO may designate rules for the campaigning period.
 Candidates will not be reimbursed.
 
-## A.3 Balloting Rules
+## Balloting Rules
 
 The CRO shall be responsible for appointing polling clerks who will be paid minimum wage by council or more by 2/3 vote.
 The CRO must cast a sealed vote given to the council which will break ties.
 
-## A.4 Count, Recount and Protests
+## Count, Recount and Protests
 
 1. Ballots are counted as soon as practicable after the closing of the polls under the supervision of the CRO and those whom the CRO designates to assist him.
 
@@ -231,11 +209,11 @@ The CRO must cast a sealed vote given to the council which will break ties.
 
 3. All complaints, protest or petitions for a recount must be made to the CRO no later than three school days following the closing of the polls.
 
-## A.5 Invalidation
+## Invalidation
 
 The CRO shall invalidate the election at his discretion with a 2/3 vote of council.
 
-## B Bylaw Amendments
+## Bylaw Amendments
 
 Amendments to the by-laws may be made at any meeting of CSUS Executive
 Council and must be approved by two-thirds (2/3) of those present and

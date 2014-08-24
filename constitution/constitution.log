@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.8.15)  24 AUG 2014 12:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.8.15)  24 AUG 2014 12:27
 entering extended mode
 **constitution.tex
 (D:\github\mcgill-csus-docs\constitution\constitution.tex
@@ -896,20 +896,20 @@ Package microtype Info: Loading generic settings for font family
 ) [5]
 (D:\github\mcgill-csus-docs\constitution\constitution.aux) ) 
 Here is how much of TeX's memory you used:
- 8494 strings out of 493921
- 124479 string characters out of 3143673
- 273779 words of memory out of 3000000
- 11487 multiletter control sequences out of 15000+200000
- 56685 words of font info for 165 fonts, out of 3000000 for 9000
+ 8485 strings out of 493921
+ 124321 string characters out of 3143673
+ 271779 words of memory out of 3000000
+ 11482 multiletter control sequences out of 15000+200000
+ 56261 words of font info for 162 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 47i,7n,39p,311b,484s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,7n,39p,311b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Calem/App
 Data/Roaming/MiKTeX/2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{D:/external
  program files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Users/Calem/AppDa
 ta/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/Calem/Ap
 pData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmne.pfb><D:/external pro
 gram files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on constitution.pdf (5 pages, 47705 bytes).
+Output written on constitution.pdf (5 pages, 47257 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
