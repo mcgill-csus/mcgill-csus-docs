@@ -8,7 +8,7 @@ CSUS may receive external funding and is free to independently administer this f
 
 ## Name
 
-In English, the society is "Computer Science Undergraduate Society of McGill University," and in French it is "L'Association des Etudiants et Etudiantes en Informatique de L'Universite McGill".
+In English, the society is "the Computer Science Undergraduate Society of McGill University," and in French it is "L'Association des Etudiants et Etudiantes en Informatique de L'Universite McGill".
 These will be referred to as CSUS and AEIM respectively throughout this document.
 
 ## Membership
@@ -28,29 +28,23 @@ Additional fees specific to CSUS may be added by referendum.
 
 ## Rights, Privileges and Obligations of Members
 
-The privileges of the members shall include making use of CSUS facilities and services and taking part in all CSUS politicking, academic, and entertainment events.
-
-The obligations of all members of CSUS will be to conform to CSUS Constitution, regulations and bylaws.
-
+The privileges of the members include making use of CSUS facilities and services, taking part in all CSUS politicking, academic, and entertainment events, and participating in the organisation of any politicking, academics, and events.
+It is an obligation of all CSUS members to conform to CSUS Constitution, regulations and bylaws.
 No member is empowered to act as an agent of CSUS unless permission to so act has been granted be the Executive Council of CSUS.
 
 ## Finances of CSUS
 
-1. The fiscal year of the Society is from April 15th to April 14th of the following year.
+1. The fiscal year of the Society is April 15th -- April 14th of the following year.
 
-2. The budget of CSUS for the current fiscal year will be presented to the SUS no later than October 1st.
-
-3. The accounts of CSUS shall be maintained according to standard accounting practice and shall be made available to the public at all times.
+2. The accounts and inventory of CSUS, though not where the individual itmes of the inventory is kept, shall be publicly available at all times.
 
 ## Languages of the Society
 
 English and French are the official languages of the Society and all meetings may be conducted in either language at the discretion of the executive council and documents must be available in both languages on request.
 
+
 # Organization of the Society
 
-## The Executive Council
-
-The Executive Council shall administers the policies of this constitution.
 
 ## Members of the Executive Council
 
