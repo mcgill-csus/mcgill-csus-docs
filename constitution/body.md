@@ -18,29 +18,29 @@ Any student registered in a Computer Science Major or Computer Science Honours p
 
 ## Purpose
 
-The primary purpose of the CSUS is to protect the academic rights and interests of its constituency.
-Other duties of the CSUS is to represent and promote the views of its members and to implement academic, educational, cultural, social and other programmes of interest to its members.
+The primary purpose of CSUS is to protect the academic rights and interests of its constituency.
+Other duties of CSUS is to represent and promote the views of its members and to implement academic, educational, cultural, social and other programmes of interest to its members.
 
 ## Society Fees
 
-The fees for the CSUS will be determined by the Science Undergraduate Society of McGill University (Hereafter referred to as SUS).
+The fees for CSUS will be determined by the Science Undergraduate Society of McGill University (Hereafter referred to as SUS).
 Additional fees specific to CSUS may be added by referendum.
 
 ## Rights, Privileges and Obligations of Members
 
-The privileges of the members shall include making use of the CSUS facilities and services and taking part in all CSUS politicking, academic, and entertainment events.
+The privileges of the members shall include making use of CSUS facilities and services and taking part in all CSUS politicking, academic, and entertainment events.
 
-The obligations of all members of the CSUS will be to conform to the CSUS Constitution, regulations and bylaws.
+The obligations of all members of CSUS will be to conform to CSUS Constitution, regulations and bylaws.
 
-No member is empowered to act as an agent of the CSUS unless permission to so act has been granted be the Executive Council of the CSUS.
+No member is empowered to act as an agent of CSUS unless permission to so act has been granted be the Executive Council of CSUS.
 
-## Finances of the CSUS
+## Finances of CSUS
 
 1. The fiscal year of the Society is from April 15th to April 14th of the following year.
 
-2. The budget of the CSUS for the current fiscal year will be presented to the SUS no later than October 1st.
+2. The budget of CSUS for the current fiscal year will be presented to the SUS no later than October 1st.
 
-3. The accounts of the CSUS shall be maintained according to standard accounting practice and shall be made available to the public at all times.
+3. The accounts of CSUS shall be maintained according to standard accounting practice and shall be made available to the public at all times.
 
 ## Languages of the Society
 
@@ -56,11 +56,11 @@ The Executive Council shall administers the policies of this constitution.
 
 The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, VP Sustainability, VP Events, and U1 representative.
 
-Members of the Executive Council must be members of the CSUS for the entire duration of their mandate and cannot receive financial remuneration for the fulfillment of their mandate.
+Members of the Executive Council must be members of CSUS for the entire duration of their mandate and cannot receive financial remuneration for the fulfillment of their mandate.
 
 ## Powers and Duties
 
-1. The Executive Council defines all general policies of the CSUS, coordinate and administer the policies and affirs of the CSUS,  act as the governing body of the CSUS, be held accountable in general assembly and execute general assembly decisions, approve/reject budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, create or dissolve CSUS committees, uphold the constitution, determine the membership fee of membership of the society, and appoint the Chief Returning Office.
+1. The Executive Council defines all general policies of CSUS, coordinate and administer the policies and affirs of CSUS,  act as the governing body of CSUS, be held accountable in general assembly and execute general assembly decisions, approve/reject budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, create or dissolve CSUS committees, uphold the constitution, determine the membership fee of membership of the society, and appoint the Chief Returning Office.
 
 2. Signing powers of the Society shall are exercised by at least two of the President, the Vice-President Finance, and the Vice-President Administration or by any five executive council members.
 
@@ -77,21 +77,21 @@ of the President, be responsible for maintaining links with student organization
 
 ## Vice-President Internal
 
-The Vice-President Internal will be responsible for the organization of social, cultural and other activities for the members of the CSUS, be chair of the Social Activities Committee (SAC), maintain and promote relations with other Faculties, Student Associations, and administrative bodies of the University (Internal Affairs), and be responsible for the society's facilities and equipment.
+The Vice-President Internal will be responsible for the organization of social, cultural and other activities for the members of CSUS, be chair of the Social Activities Committee (SAC), maintain and promote relations with other Faculties, Student Associations, and administrative bodies of the University (Internal Affairs), and be responsible for the society's facilities and equipment.
 
 ## Vice-President Finance
 
 The Vice-President Finance will, in cooperation with the Executive Council, prepare the annual
-budget of the CSUS, which includes the actual expenditures from the previous year, before October 15, in cooperation with the Executive Council, manage the funds of the CSUS, keep proper financial accounts and records, and prepare a year-end financial report by April 14th for review by an independent person at minimal cost to the society.
+budget of CSUS, which includes the actual expenditures from the previous year, before October 15, in cooperation with the Executive Council, manage the funds of CSUS, keep proper financial accounts and records, and prepare a year-end financial report by April 14th for review by an independent person at minimal cost to the society.
 
 ## Vice-President Academic
 
-The Vice-President Academic will be responsible for all educational and curricular concerns of the CSUS, whether they are internal or external to the University, may represent a student, upon the demand of the student in writing, in
+The Vice-President Academic will be responsible for all educational and curricular concerns of CSUS, whether they are internal or external to the University, may represent a student, upon the demand of the student in writing, in
 any judicial or academic or social proceedings taken against the student by the University, or a delegate appointed by the University, and be chair of the University Academic Committee (UAC).
 
 ## Vice-President Administration
 
-The Vice-President Administration will be responsible for preparing and issuing agendas and minutes of the CSUS Executive Council meetings and General Assemblies at least three school days prior to any CSUS Executive Council meeting or General Assembly; promote and coordinate communication within the Society; maintain the files of the Society; ensure members of the CSUS Executive Council attend meetings and properly maintain their presence on necessary parts of source control; be responsible to have official minutes of the Executives and the General Assembly publicly available; and serve as an ex-officio member of all Society committees;
+The Vice-President Administration will be responsible for preparing and issuing agendas and minutes of CSUS Executive Council meetings and General Assemblies at least three school days prior to any CSUS Executive Council meeting or General Assembly; promote and coordinate communication within the Society; maintain the files of the Society; ensure members of CSUS Executive Council attend meetings and properly maintain their presence on necessary parts of source control; be responsible to have official minutes of the Executives and the General Assembly publicly available; and serve as an ex-officio member of all Society committees;
 
 ## U1 Representative
 
@@ -99,20 +99,20 @@ The U1 Representative swill act as liaison between the U1 students and the Execu
 
 ## Vice-President Sustainability
 
-The Vice-President Sustainability will be responsible for ensuring events and activities of the CSUS are carried out in a sustainble fashion, determining how to maximise sustainability while minising cost; be responsible for promoting sustainability amongst the constituency; and create and promote sustainability events in conjunction with Vice-President Events.
+The Vice-President Sustainability will be responsible for ensuring events and activities of CSUS are carried out in a sustainble fashion, determining how to maximise sustainability while minising cost; be responsible for promoting sustainability amongst the constituency; and create and promote sustainability events in conjunction with Vice-President Events.
 
 ## Vice-President Diversity
 
-The Vice-President Diversity will be responsible promoting racial diversity and gender equity for the CSUS; act as a liason to other diversity bodies outside of the university; and otherwise improve equity and respectfulness amongst the constituency however he/she sees fit.
+The Vice-President Diversity will be responsible promoting racial diversity and gender equity for CSUS; act as a liason to other diversity bodies outside of the university; and otherwise improve equity and respectfulness amongst the constituency however he/she sees fit.
 
 ## Vice-President Events
 
-The Vice-President Events will manage all events or delegating responsibility to manage events carried out by the CSUS; minimise cost of events; and promote events.
+The Vice-President Events will manage all events or delegating responsibility to manage events carried out by CSUS; minimise cost of events; and promote events.
 
 
 ## Meetings of the Executive Council
 
-Quorum for a Regular meeting of the CSUS Executive Council is four members and quorum for online interactions, where relevant, is six members.
+Quorum for a Regular meeting of CSUS Executive Council is four members and quorum for online interactions, where relevant, is six members.
 Each member of the Executive Council has a single vote, except for the President who votes only to break a tie.
 
 In case of an emergency, the President may call a special meeting at any time, provided that four fifths of executives are present, or upon the signing of a waiver of notice by all executives.
@@ -137,9 +137,9 @@ The General Assembly may make any decision, including the ratification or reject
 
 7. General assemblies are held at the discretion of the current council, but if at least 10% of students request a GA one must be held within 20 days of the request.
 
-## Committees of the CSUS
+## Committees of CSUS
 
-1. Any member of the CSUS is eligible to hold chair on a CSUS Committee.
+1. Any member of CSUS is eligible to hold chair on a CSUS Committee.
 
 2. Every committee produces a public year end report by April 1.  A revision control history for all of their documents will suffice.
 
@@ -170,7 +170,7 @@ CRO subject to Article 28 if the CRO decides to run for a position.
 2. Referendums must be publicly available 6 days before vote and all details of the voting location, hours, etc. must also be posted.
 
 3. The Referendum shall be considered valid only if a minimum
-of thirty percent (30%) of the CSUS members vote.
+of thirty percent (30%) of CSUS members vote.
 
 4. Referendums are passed by a majority of membership.
 
@@ -252,6 +252,6 @@ The CRO shall invalidate the election at his discretion with a 2/3 vote of counc
 
 ## B Bylaw Amendments
 
-Amendments to the by-laws may be made at any meeting of the CSUS Executive
+Amendments to the by-laws may be made at any meeting of CSUS Executive
 Council and must be approved by two-thirds (2/3) of those present and
 voting.
