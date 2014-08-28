@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.8.15)  24 AUG 2014 12:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.8.28)  28 AUG 2014 11:59
 entering extended mode
 **constitution.tex
-(D:\github\mcgill-csus-docs\constitution\constitution.tex
+(F:\Github\mcgill-csus-docs\constitution\constitution.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(D:\github\mcgill-csus-docs\constitution\sleek-journal-article.tex
+(F:\Github\mcgill-csus-docs\constitution\sleek-journal-article.tex
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrartcl.cls
 Document Class: scrartcl 2013/12/19 v3.12 KOMA-Script document class (article)
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.sty
@@ -24,7 +24,7 @@ asics and keyval usage)
 Package: scrbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-("D:\external program files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
@@ -104,17 +104,17 @@ Package typearea Info: These are the values describing the layout:
 \c@figure=\count86
 \c@table=\count87
 \bibindent=\dimen102
-) ("D:\external program files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("D:\external program files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\kpfonts\kpfonts.sty
 Package: kpfonts  2010/08/20 v3.31
 
-("D:\external program files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -130,7 +130,7 @@ Package textcomp Info: Sub-encoding information:
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 Package textcomp Info: Changing ? sub-encoding to TS1/0 on input line 72.
 
-("D:\external program files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 266.
@@ -196,24 +196,24 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-("D:\external program files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip48
 
 For additional information on amsmath, use the `?' option.
-("D:\external program files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("D:\external program files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen103
 ))
-("D:\external program files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-("D:\external program files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count88
@@ -522,17 +522,53 @@ LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `boldsf'
 (Font)                  U/jkpexa/m/n --> U/jkpexa/bx/n on input line 620.
 LaTeX Info: Redefining \not on input line 1580.
 )
-("D:\external program files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\cabin.sty
+Package: cabin 2013/07/20 (Bob Tennent) Supports Cabin fonts for all LaTeX engi
+nes.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+\XKV@depth=\count104
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+)
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\fontaxes\fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\mweights\mweights.sty
+Package: mweights 2013/07/21 (Bob Tennent) Support package for multiple-weight 
+font packages. 
+LaTeX Info: Redefining \bfseries on input line 22.
+LaTeX Info: Redefining \mdseries on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 36.
+LaTeX Info: Redefining \sffamily on input line 53.
+LaTeX Info: Redefining \ttfamily on input line 70.
+))
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
-\MT@toks=\toks20
-\MT@count=\count104
+\MT@toks=\toks22
+\MT@count=\count105
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen112
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count105
+\MT@listname@count=\count106
 
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype-pdftex
 .def
@@ -547,23 +583,20 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-("D:\external program files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("D:\external program files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("D:\external program files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("D:\external program files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count106
-\Gm@cntv=\count107
-\c@Gm@tempcnt=\count108
+\Gm@cnth=\count107
+\Gm@cntv=\count108
+\c@Gm@tempcnt=\count109
 \Gm@bindingoffset=\dimen113
 \Gm@wd@mp=\dimen114
 \Gm@odd@mp=\dimen115
@@ -572,19 +605,19 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen118
 \Gm@layouthoffset=\dimen119
 \Gm@layoutvoffset=\dimen120
-\Gm@dimlist=\toks21
+\Gm@dimlist=\toks23
 
-("D:\external program files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("D:\external program files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count109
+\c@tracingmulticols=\count110
 \mult@box=\box29
 \multicol@leftmargin=\dimen121
-\c@unbalance=\count110
-\c@collectmore=\count111
-\doublecol@number=\count112
-\multicoltolerance=\count113
-\multicolpretolerance=\count114
+\c@unbalance=\count111
+\c@collectmore=\count112
+\doublecol@number=\count113
+\multicoltolerance=\count114
+\multicolpretolerance=\count115
 \full@width=\dimen122
 \page@free=\dimen123
 \premulticols=\dimen124
@@ -614,14 +647,14 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box50
 \@tempa=\box51
 \@tempa=\box52
-\c@columnbadness=\count115
-\c@finalcolumnbadness=\count116
+\c@columnbadness=\count116
+\c@finalcolumnbadness=\count117
 \last@try=\dimen126
 \multicolovershoot=\dimen127
 \multicolundershoot=\dimen128
 \mult@nat@firstbox=\box53
 \colbreak@box=\box54
-\multicol@sort@counter=\count117
+\multicol@sort@counter=\count118
 )
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
@@ -635,20 +668,20 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen136
 \cmidrulekern=\dimen137
 \defaultaddspace=\dimen138
-\@cmidla=\count118
-\@cmidlb=\count119
+\@cmidla=\count119
+\@cmidlb=\count120
 \@aboverulesep=\dimen139
 \@belowrulesep=\dimen140
-\@thisruleclass=\count120
-\@lastruleclass=\count121
+\@thisruleclass=\count121
+\@lastruleclass=\count122
 \@thisrulewidth=\dimen141
 )
-("D:\external program files\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count122
-\float@exts=\toks22
+\c@float@type=\count123
+\float@exts=\toks24
 \float@box=\box55
-\@float@everytoks=\toks23
+\@float@everytoks=\toks25
 \@floatcapt=\box56
 )
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\paralist\paralist.sty
@@ -657,7 +690,7 @@ Package: paralist 2013/06/09 v2.4 Extended list environments
 \plpartopsep=\skip55
 \plitemsep=\skip56
 \plparsep=\skip57
-\pl@lab=\toks24
+\pl@lab=\toks26
 )
 
 Class scrartcl Warning: Usage of package `titlesec' together
@@ -677,7 +710,7 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \aftertitleunit=\skip59
 \ttl@plus=\dimen142
 \ttl@minus=\dimen143
-\ttl@toksa=\toks25
+\ttl@toksa=\toks27
 \titlewidth=\dimen144
 \titlewidthlast=\dimen145
 \titlewidthfirst=\dimen146
@@ -700,34 +733,34 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip68
 \enit@outerparindent=\dimen147
-\enit@toks=\toks26
+\enit@toks=\toks28
 \enit@inbox=\box58
-\enitdp@description=\count123
+\enitdp@description=\count124
 )
-("D:\external program files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("D:\external program files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\external program files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("D:\external program files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("D:\external program files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("D:\external program files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("D:\external program files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count124
+\Gread@gobject=\count125
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
@@ -735,7 +768,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("D:\external program files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Package option `usenames' ignored on input line 216.
@@ -744,18 +777,18 @@ Package xcolor Info: Driver file: pdftex.def on input line 225.
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-("D:\external program files\MiKTeX 2.9\tex\latex\tools\array.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen150
 \extrarowheight=\dimen151
-\NC@list=\toks27
+\NC@list=\toks29
 \extratabsurround=\skip69
 \backup@length=\skip70
 )
-\everycr=\toks28
+\everycr=\toks30
 \minrowclearance=\skip71
 )
-\rownum=\count125
+\rownum=\count126
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
@@ -766,13 +799,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 
-("D:\external program files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
 File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 )
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\svgnam.def
 File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
 )))
-(D:\github\mcgill-csus-docs\constitution\constitution.aux)
+(F:\Github\mcgill-csus-docs\constitution\constitution.aux)
 LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 13.
 LaTeX Font Info:    Try loading font information for OML+jkp on input line 13.
 
@@ -809,7 +842,7 @@ LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
 
-("D:\external program files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 13.
@@ -818,6 +851,8 @@ LaTeX Font Info:    Try loading font information for T1+jkp on input line 13.
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\kpfonts\t1jkp.fd
 File: t1jkp.fd 2007/01/24 Fontinst v1.928 font definitions for T1/jkp.
 )
+\c@mv@tabular=\count127
+\c@mv@boldtabular=\count128
 LaTeX Info: Redefining \microtypecontext on input line 13.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -869,49 +904,66 @@ Package microtype Info: Loading generic settings for font family
 
 (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count126
+\scratchcounter=\count129
 \scratchdimen=\dimen152
 \scratchbox=\box59
-\nofMPsegments=\count127
-\nofMParguments=\count128
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count129
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count132
 \MPscratchDim=\dimen153
-\MPnumerator=\count130
-\makeMPintoPDFobject=\count131
-\everyMPtoPDFconversion=\toks30
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks32
 )
-LaTeX Font Info:    Try loading font information for T1+phv on input line 14.
- ("D:\external program files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+LaTeX Font Info:    Try loading font information for T1+Cabin-TLF on input line
+ 14.
+ (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\t1cabin-tlf.fd
+File: T1Cabin-TLF.fd 2012/11/17 (autoinst) Font definitions for T1/Cabin-TLF.
 )
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 14.
 Package microtype Info: Loading generic settings for font family
-(microtype)             `phv' (encoding: T1).
+(microtype)             `Cabin-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 14.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/Cabin-TLF/m/sc/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 14.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/Cabin-TLF/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 14.
 
-(D:\github\mcgill-csus-docs\constitution\body.tex [1
+(F:\Github\mcgill-csus-docs\constitution\body.tex [1
 
 {C:/Users/Calem/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
 ) [5]
-(D:\github\mcgill-csus-docs\constitution\constitution.aux) ) 
+(F:\Github\mcgill-csus-docs\constitution\constitution.aux) ) 
 Here is how much of TeX's memory you used:
- 8485 strings out of 493921
- 124321 string characters out of 3143673
- 271779 words of memory out of 3000000
- 11482 multiletter control sequences out of 15000+200000
- 56261 words of font info for 162 fonts, out of 3000000 for 9000
+ 8947 strings out of 493921
+ 133186 string characters out of 3147282
+ 279783 words of memory out of 3000000
+ 11927 multiletter control sequences out of 15000+200000
+ 77532 words of font info for 159 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 47i,7n,39p,311b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,7n,55p,310b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Calem/App
-Data/Roaming/MiKTeX/2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{D:/external
- program files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Users/Calem/AppDa
-ta/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/Calem/Ap
-pData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmne.pfb><D:/external pro
-gram files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on constitution.pdf (5 pages, 47257 bytes).
+Data/Roaming/MiKTeX/2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{C:/Program 
+Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Users/Calem/AppData/Roamin
+g/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_aojlca.enc}{C:/Users/Calem/AppData/Roami
+ng/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_hvmmj2.enc}<C:/Users/Calem/AppData/Roam
+ing/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Regular.pfb><C:/Users/Calem/Ap
+pData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/Calem
+/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmne.pfb>
+Output written on constitution.pdf (5 pages, 50073 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  19969 words of extra memory for PDF output out of 20736 (max. 10000000)
 

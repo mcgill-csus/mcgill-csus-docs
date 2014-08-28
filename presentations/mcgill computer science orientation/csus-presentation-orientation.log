@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.28)  27 AUG 2014 23:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.8.28)  28 AUG 2014 12:28
 entering extended mode
 **csus-presentation-orientation.tex
 
-("E:\git\mcgill-csus-docs\presentations\mcgill computer science orientation\csu
-s-presentation-orientation.tex"
+("F:\Github\mcgill-csus-docs\presentations\mcgill computer science orientation\
+csus-presentation-orientation.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -16,31 +16,31 @@ ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 
-("E:\git\mcgill-csus-docs\presentations\mcgill computer science orientation\sle
-ek-presentation.tex"
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls"
-Document Class: scrartcl 2012/07/29 v3.11b KOMA-Script document class (article)
+("F:\Github\mcgill-csus-docs\presentations\mcgill computer science orientation\
+sleek-presentation.tex"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrartcl.cls
+Document Class: scrartcl 2013/12/19 v3.12 KOMA-Script document class (article)
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.sty
+Package: scrkbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
-Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent 
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.sty
+Package: scrbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
-Package: scrbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-independent
- basics and keyval usage)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
-Package: scrlfile 2012/06/15 v3.12 KOMA-Script package (loading files)
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.sty
+Package: scrlfile 2013/12/19 v3.12 KOMA-Script package (loading files)
 
-Package scrlfile, 2012/06/15 v3.12 KOMA-Script package (loading files)
+Package scrlfile, 2013/12/19 v3.12 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
-Package: tocbasic 2012/04/04 v3.10b KOMA-Script package (handling toc-files)
+)))
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocbasic.sty
+Package: tocbasic 2013/12/19 v3.12 KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
@@ -52,16 +52,17 @@ Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 117.
 Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
-ine 1267.
+ine 1531.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
-File: scrsize11pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (11p
-t)
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrsize11pt.cl
+o
+File: scrsize11pt.clo 2013/12/19 v3.12 KOMA-Script font size class option (11pt
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
-Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
+)
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\typearea.sty
+Package: typearea 2013/12/19 v3.12 KOMA-Script package (type area)
 
-Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
+Package typearea, 2013/12/19 v3.12 KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -70,6 +71,7 @@ Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
 \ta@hblk=\skip42
 \ta@vblk=\skip43
 \ta@temp=\skip44
+\footheight=\skip45
 
 Package typearea Warning: Maybe no optimal type area settings!
 (typearea)                The maximum limit of line width is about 28%
@@ -91,9 +93,15 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \headheight     = 17.0pt
 (typearea)              \headsep        = 20.40001pt
 (typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.60002pt
+(typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1213.
+(typearea)              on input line 1330.
+
+Package typearea Warning: page content and margins higher than paper.
+(typearea)                This may result in page footer out of paper.
+(typearea)                You should decrease DIV, decrease foot height,
+(typearea)                or include footer into type area.
+
 )
 \c@part=\count80
 \c@section=\count81
@@ -101,25 +109,25 @@ Package typearea Info: These are the values describing the layout:
 \c@subsubsection=\count83
 \c@paragraph=\count84
 \c@subparagraph=\count85
-\abovecaptionskip=\skip45
-\belowcaptionskip=\skip46
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
 \c@pti@nb@sid@b@x=\box26
 \c@figure=\count86
 \c@table=\count87
 \bibindent=\dimen102
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\soul\soul.sty"
+) (C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\soul\soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks15
 \SOUL@lasttoken=\toks16
 \SOUL@cmds=\toks17
 \SOUL@buffer=\toks18
 \SOUL@token=\toks19
-\SOUL@spaceskip=\skip47
+\SOUL@spaceskip=\skip48
 \SOUL@ttwidth=\dimen103
 \SOUL@uldp=\dimen104
 \SOUL@ulht=\dimen105
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\cabin\cabin.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\cabin.sty
 Package: cabin 2013/07/20 (Bob Tennent) Supports Cabin fonts for all LaTeX engi
 nes.
 
@@ -223,14 +231,14 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fontaxes\fontaxes.sty"
-Package: fontaxes 2011/12/16 v1.0c Font selection axes
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\fontaxes\fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
 LaTeX Info: Redefining \scshape on input line 37.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\mweights\mweights.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\mweights\mweights.sty
 Package: mweights 2013/07/21 (Bob Tennent) Support package for multiple-weight 
 font packages. 
 LaTeX Info: Redefining \bfseries on input line 22.
@@ -239,7 +247,7 @@ LaTeX Info: Redefining \rmfamily on input line 36.
 LaTeX Info: Redefining \sffamily on input line 53.
 LaTeX Info: Redefining \ttfamily on input line 70.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks22
 \MT@count=\count89
@@ -248,33 +256,42 @@ LaTeX Info: Redefining \textls on input line 766.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
 \MT@listname@count=\count90
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype-pdftex
+.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
 LaTeX Info: Redefining \lslig on input line 915.
-\MT@outer@space=\skip48
+\MT@outer@space=\skip49
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
-\fancy@headwidth=\skip49
-\f@ncyO@elh=\skip50
-\f@ncyO@erh=\skip51
-\f@ncyO@olh=\skip52
-\f@ncyO@orh=\skip53
-\f@ncyO@elf=\skip54
-\f@ncyO@erf=\skip55
-\f@ncyO@olf=\skip56
-\f@ncyO@orf=\skip57
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrpage2' or `scrlayer-scrpage'.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 25.
+
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip50
+\f@ncyO@elh=\skip51
+\f@ncyO@erh=\skip52
+\f@ncyO@olh=\skip53
+\f@ncyO@orh=\skip54
+\f@ncyO@elf=\skip55
+\f@ncyO@erf=\skip56
+\f@ncyO@olf=\skip57
+\f@ncyO@orf=\skip58
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen107
@@ -363,9 +380,9 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count95
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen115
@@ -398,9 +415,9 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip58
+\Hy@SectionHShift=\skip59
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen118
 \lightrulewidth=\dimen119
@@ -428,31 +445,31 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks24
 \@floatcapt=\box28
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\paralist\paralist.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\paralist\paralist.sty
 Package: paralist 2013/06/09 v2.4 Extended list environments
-\pltopsep=\skip59
-\plpartopsep=\skip60
-\plitemsep=\skip61
-\plparsep=\skip62
+\pltopsep=\skip60
+\plpartopsep=\skip61
+\plitemsep=\skip62
+\plparsep=\skip63
 \pl@lab=\toks25
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\abstract\abstract.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\abstract\abstract.sty
 Package: abstract 2009/06/08 v1.2a configurable abstracts
-\abstitleskip=\skip63
-\absleftindent=\skip64
-\absrightindent=\skip65
-\absparindent=\skip66
-\absparsep=\skip67
+\abstitleskip=\skip64
+\absleftindent=\skip65
+\absrightindent=\skip66
+\absparindent=\skip67
+\absparsep=\skip68
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\titling\titling.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\titling\titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip68
-\thanksmargin=\skip69
-\droptitle=\skip70
+\thanksmarkwidth=\skip69
+\thanksmargin=\skip70
+\droptitle=\skip71
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip71
+\labelindent=\skip72
 \enit@outerparindent=\dimen131
 \enit@toks=\toks26
 \enit@inbox=\box29
@@ -479,19 +496,78 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gin@req@height=\dimen132
 \Gin@req@width=\dimen133
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box30
-\beforetitleunit=\skip72
-\aftertitleunit=\skip73
-\ttl@plus=\dimen134
-\ttl@minus=\dimen135
-\ttl@toksa=\toks27
-\titlewidth=\dimen136
-\titlewidthlast=\dimen137
-\titlewidthfirst=\dimen138
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count109
+\mult@box=\box30
+\multicol@leftmargin=\dimen134
+\c@unbalance=\count110
+\c@collectmore=\count111
+\doublecol@number=\count112
+\multicoltolerance=\count113
+\multicolpretolerance=\count114
+\full@width=\dimen135
+\page@free=\dimen136
+\premulticols=\dimen137
+\postmulticols=\dimen138
+\multicolsep=\skip73
+\multicolbaselineskip=\skip74
+\partial@page=\box31
+\last@line=\box32
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count115
+\c@finalcolumnbadness=\count116
+\last@try=\dimen139
+\multicolovershoot=\dimen140
+\multicolundershoot=\dimen141
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\multicol@sort@counter=\count117
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+
+Class scrartcl Warning: Usage of package `titlesec' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use the package only
+(scrartcl)              if you really need it, because it breaks several
+(scrartcl)              KOMA-Script features, i.e., option `headings' and
+(scrartcl)              the extended optional argument of the section
+(scrartcl)              commands .
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `titlesec' on input line 36.
+
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip75
+\aftertitleunit=\skip76
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks27
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
+)
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
@@ -500,21 +576,21 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 Package xcolor Info: Package option `usenames' ignored on input line 216.
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen139
-\extrarowheight=\dimen140
+\col@sep=\dimen147
+\extrarowheight=\dimen148
 \NC@list=\toks28
-\extratabsurround=\skip74
-\backup@length=\skip75
+\extratabsurround=\skip77
+\backup@length=\skip78
 )
 \everycr=\toks29
-\minrowclearance=\skip76
+\minrowclearance=\skip79
 )
-\rownum=\count109
+\rownum=\count118
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
@@ -528,14 +604,14 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
 File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\svgnam.def"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\svgnam.def
 File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\footmisc\footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks30
-\footnotemargin=\dimen141
-\c@pp@next@reset=\count110
+\footnotemargin=\dimen149
+\c@pp@next@reset=\count119
 
 
 LaTeX Warning: Command \@footnotemark  has changed.
@@ -551,22 +627,22 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count111
-\Gm@cntv=\count112
-\c@Gm@tempcnt=\count113
-\Gm@bindingoffset=\dimen142
-\Gm@wd@mp=\dimen143
-\Gm@odd@mp=\dimen144
-\Gm@even@mp=\dimen145
-\Gm@layoutwidth=\dimen146
-\Gm@layoutheight=\dimen147
-\Gm@layouthoffset=\dimen148
-\Gm@layoutvoffset=\dimen149
+\Gm@cnth=\count120
+\Gm@cntv=\count121
+\c@Gm@tempcnt=\count122
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
 \Gm@dimlist=\toks31
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")))
-("E:\git\mcgill-csus-docs\presentations\mcgill computer science orientation\csu
-s-presentation-orientation.aux")
+("F:\Github\mcgill-csus-docs\presentations\mcgill computer science orientation\
+csus-presentation-orientation.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
@@ -591,14 +667,14 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Try loading font information for OT1+Cabin-TLF on input lin
 e 12.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\cabin\ot1cabin-tlf.fd"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\ot1cabin-tlf.fd
 File: OT1Cabin-TLF.fd 2012/11/17 (autoinst) Font definitions for OT1/Cabin-TLF.
 
 )
 LaTeX Font Info:    Font shape `OT1/Cabin-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 12.
-\c@mv@tabular=\count114
-\c@mv@boldtabular=\count115
+\c@mv@tabular=\count123
+\c@mv@boldtabular=\count124
 LaTeX Info: Redefining \microtypecontext on input line 12.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -617,7 +693,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box31
+\AtBeginShipoutBox=\box57
 Package hyperref Info: Link coloring ON on input line 12.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
@@ -626,30 +702,30 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count116
+\c@section@level=\count125
 )
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
 
-("E:\git\mcgill-csus-docs\presentations\mcgill computer science orientation\csu
-s-presentation-orientation.out")
-("E:\git\mcgill-csus-docs\presentations\mcgill computer science orientation\csu
-s-presentation-orientation.out")
+("F:\Github\mcgill-csus-docs\presentations\mcgill computer science orientation\
+csus-presentation-orientation.out")
+("F:\Github\mcgill-csus-docs\presentations\mcgill computer science orientation\
+csus-presentation-orientation.out")
 \@outlinefile=\write3
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count117
-\scratchdimen=\dimen150
-\scratchbox=\box32
-\nofMPsegments=\count118
-\nofMParguments=\count119
+\scratchcounter=\count126
+\scratchdimen=\dimen158
+\scratchbox=\box58
+\nofMPsegments=\count127
+\nofMParguments=\count128
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count120
-\MPscratchDim=\dimen151
-\MPnumerator=\count121
-\makeMPintoPDFobject=\count122
+\MPscratchCnt=\count129
+\MPscratchDim=\dimen159
+\MPnumerator=\count130
+\makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks33
 )
 *geometry* driver: auto-detecting
@@ -672,7 +748,7 @@ s-presentation-orientation.out")
 * \headheight=17.0pt
 * \headsep=20.40001pt
 * \topskip=11.0pt
-* \footskip=47.60002pt
+* \footskip=47.6pt
 * \marginparwidth=36.41953pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
@@ -700,35 +776,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-<gfx/logo.pdf, id=36, 142.26149pt x 47.3757pt>
-File: gfx/logo.pdf Graphic file (type pdf)
- <use gfx/logo.pdf>
-Package pdftex.def Info: gfx/logo.pdf used on input line 16.
-(pdftex.def)             Requested size: 65.76233pt x 21.9pt.
- [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+<gfx/csus-logo.png, id=36, 367.1316pt x 42.3984pt>
+File: gfx/csus-logo.png Graphic file (type png)
+ <use gfx/csus-logo.png>
+Package pdftex.def Info: gfx/csus-logo.png used on input line 16.
+(pdftex.def)             Requested size: 142.22841pt x 16.42499pt.
 
- <E:/git/mcgill-csus-docs/presentations/mcgill computer science orientation/gfx
-/logo.pdf>]
-<gfx/calbenthumbsmall.jpg, id=66, 1027.84pt x 1027.84pt>
+[1{C:/Users/Calem/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <F:/Github/mcgill-csus-docs/presentations/mcgill computer science orientation/
+gfx/csus-logo.png>] <gfx/calbenthumbsmall.jpg, id=46, 1027.84pt x 1027.84pt>
 File: gfx/calbenthumbsmall.jpg Graphic file (type jpg)
 
 <use gfx/calbenthumbsmall.jpg>
 Package pdftex.def Info: gfx/calbenthumbsmall.jpg used on input line 19.
 (pdftex.def)             Requested size: 61.10973pt x 61.10312pt.
 
-<gfx/maudethumb.jpg, id=67, 614.295pt x 614.295pt>
+<gfx/maudethumb.jpg, id=47, 614.295pt x 614.295pt>
 File: gfx/maudethumb.jpg Graphic file (type jpg)
  <use gfx/maudethumb.jpg>
 Package pdftex.def Info: gfx/maudethumb.jpg used on input line 20.
 (pdftex.def)             Requested size: 61.10973pt x 61.10503pt.
 
-<gfx/maximthumb.jpg, id=68, 575.14874pt x 576.1525pt>
+<gfx/maximthumb.jpg, id=48, 575.14874pt x 576.1525pt>
 File: gfx/maximthumb.jpg Graphic file (type jpg)
  <use gfx/maximthumb.jpg>
 Package pdftex.def Info: gfx/maximthumb.jpg used on input line 21.
 (pdftex.def)             Requested size: 61.10973pt x 61.21428pt.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
@@ -739,21 +815,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 23.
 
-<gfx/zilithumbsmall.jpg, id=69, 865.2325pt x 865.2325pt>
+<gfx/zilithumbsmall.jpg, id=49, 865.2325pt x 865.2325pt>
 File: gfx/zilithumbsmall.jpg Graphic file (type jpg)
 
 <use gfx/zilithumbsmall.jpg>
 Package pdftex.def Info: gfx/zilithumbsmall.jpg used on input line 29.
 (pdftex.def)             Requested size: 61.10973pt x 61.10056pt.
 
-<gfx/saigethumb.jpg, id=70, 1482.53876pt x 1482.53876pt>
+<gfx/saigethumb.jpg, id=50, 1482.53876pt x 1482.53876pt>
 File: gfx/saigethumb.jpg Graphic file (type jpg)
 
 <use gfx/saigethumb.jpg>
 Package pdftex.def Info: gfx/saigethumb.jpg used on input line 30.
 (pdftex.def)             Requested size: 61.10973pt x 61.10118pt.
 
-<gfx/genevievethumb.jpg, id=71, 236.885pt x 236.885pt>
+<gfx/genevievethumb.jpg, id=51, 236.885pt x 236.885pt>
 File: gfx/genevievethumb.jpg Graphic file (type jpg)
 
 <use gfx/genevievethumb.jpg>
@@ -764,50 +840,39 @@ Overfull \hbox (6.37119pt too wide) in paragraph at lines 19--32
  [] 
  []
 
-File: gfx/logo.pdf Graphic file (type pdf)
-<use gfx/logo.pdf>
-Package pdftex.def Info: gfx/logo.pdf used on input line 35.
-(pdftex.def)             Requested size: 65.76233pt x 21.9pt.
+File: gfx/csus-logo.png Graphic file (type png)
+<use gfx/csus-logo.png>
+Package pdftex.def Info: gfx/csus-logo.png used on input line 35.
+(pdftex.def)             Requested size: 142.22841pt x 16.42499pt.
  [2
 
- <E:/git/mcgill-csus-docs/presentations/mcgill computer science orientation/gfx
-/calbenthumbsmall.jpg> <E:/git/mcgill-csus-docs/presentations/mcgill computer s
-cience orientation/gfx/maudethumb.jpg> <E:/git/mcgill-csus-docs/presentations/m
-cgill computer science orientation/gfx/maximthumb.jpg> <E:/git/mcgill-csus-docs
-/presentations/mcgill computer science orientation/gfx/zilithumbsmall.jpg> <E:/
-git/mcgill-csus-docs/presentations/mcgill computer science orientation/gfx/saig
-ethumb.jpg> <E:/git/mcgill-csus-docs/presentations/mcgill computer science orie
-ntation/gfx/genevievethumb.jpg>]
+ <F:/Github/mcgill-csus-docs/presentations/mcgill computer science orientation/
+gfx/calbenthumbsmall.jpg> <F:/Github/mcgill-csus-docs/presentations/mcgill comp
+uter science orientation/gfx/maudethumb.jpg> <F:/Github/mcgill-csus-docs/presen
+tations/mcgill computer science orientation/gfx/maximthumb.jpg> <F:/Github/mcgi
+ll-csus-docs/presentations/mcgill computer science orientation/gfx/zilithumbsma
+ll.jpg> <F:/Github/mcgill-csus-docs/presentations/mcgill computer science orien
+tation/gfx/saigethumb.jpg> <F:/Github/mcgill-csus-docs/presentations/mcgill com
+puter science orientation/gfx/genevievethumb.jpg>]
 LaTeX Font Info:    Font shape `OT1/Cabin-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 37.
-LaTeX Font Info:    Font shape `OT1/Cabin-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 39.
-LaTeX Font Info:    Font shape `OT1/Cabin-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 39.
-File: gfx/logo.pdf Graphic file (type pdf)
- <use gfx/logo.pdf>
-Package pdftex.def Info: gfx/logo.pdf used on input line 49.
-(pdftex.def)             Requested size: 65.76233pt x 21.9pt.
+File: gfx/csus-logo.png Graphic file (type png)
 
-[3
-
-]
-File: gfx/logo.pdf Graphic file (type pdf)
- <use gfx/logo.pdf>
-Package pdftex.def Info: gfx/logo.pdf used on input line 62.
-(pdftex.def)             Requested size: 65.76233pt x 21.9pt.
- [4
+<use gfx/csus-logo.png>
+Package pdftex.def Info: gfx/csus-logo.png used on input line 49.
+(pdftex.def)             Requested size: 142.22841pt x 16.42499pt.
+ [3
 
 ]
 LaTeX Font Info:    Try loading font information for TS1+Cabin-TLF on input lin
-e 67.
+e 54.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\cabin\ts1cabin-tlf.fd"
+(C:\Users\Calem\AppData\Roaming\MiKTeX\2.9\tex\latex\cabin\ts1cabin-tlf.fd
 File: TS1Cabin-TLF.fd 2012/11/17 (autoinst) Font definitions for TS1/Cabin-TLF.
 
 )
 LaTeX Font Info:    Font shape `TS1/Cabin-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 67.
+(Font)              scaled to size 10.95pt on input line 54.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `Cabin-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -815,70 +880,148 @@ Package microtype Info: Loading generic settings for font family
 Package microtype Info: Character `textminus ' is missing
 (microtype)             in font `TS1/Cabin-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-File: gfx/logo.pdf Graphic file (type pdf)
+File: gfx/csus-logo.png Graphic file (type png)
 
-<use gfx/logo.pdf>
-Package pdftex.def Info: gfx/logo.pdf used on input line 71.
-(pdftex.def)             Requested size: 65.76233pt x 21.9pt.
- [5
-
-]
-File: gfx/logo.pdf Graphic file (type pdf)
- <use gfx/logo.pdf>
-Package pdftex.def Info: gfx/logo.pdf used on input line 82.
-(pdftex.def)             Requested size: 65.76233pt x 21.9pt.
- [6
-
-]
-File: gfx/logo.pdf Graphic file (type pdf)
- <use gfx/logo.pdf>
-Package pdftex.def Info: gfx/logo.pdf used on input line 92.
-(pdftex.def)             Requested size: 65.76233pt x 21.9pt.
- [7
+<use gfx/csus-logo.png>
+Package pdftex.def Info: gfx/csus-logo.png used on input line 61.
+(pdftex.def)             Requested size: 142.22841pt x 16.42499pt.
+ [4
 
 ]
 LaTeX Font Info:    Font shape `OT1/Cabin-TLF/m/it' will be
-(Font)              scaled to size 17.28pt on input line 94.
+(Font)              scaled to size 17.28pt on input line 63.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 94.
+(hyperref)                removing `\\' on input line 63.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
-File: gfx/logo.pdf Graphic file (type pdf)
-<use gfx/logo.pdf>
-Package pdftex.def Info: gfx/logo.pdf used on input line 105.
-(pdftex.def)             Requested size: 65.76233pt x 21.9pt.
+File: gfx/csus-logo.png Graphic file (type png)
+<use gfx/csus-logo.png>
+Package pdftex.def Info: gfx/csus-logo.png used on input line 73.
+(pdftex.def)             Requested size: 142.22841pt x 16.42499pt.
+ [5
+
+]
+<gfx/HackMcGilllogo.png, id=74, 590.205pt x 496.85625pt>
+File: gfx/HackMcGilllogo.png Graphic file (type png)
+
+<use gfx/HackMcGilllogo.png>
+Package pdftex.def Info: gfx/HackMcGilllogo.png used on input line 78.
+(pdftex.def)             Requested size: 134.32188pt x 113.07666pt.
+
+Overfull \hbox (1.02437pt too wide) in paragraph at lines 78--80
+[][] 
+ []
+
+
+Overfull \hbox (8.58847pt too wide) in paragraph at lines 81--82
+[]\OT1/Cabin-TLF/m/n/10.95 (-20) fb.com/groups/hackmcgill/ 
+ []
+
+
+Overfull \vbox (30.67644pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (29.67644pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (28.67644pt too high) has occurred while \output is active []
+
+File: gfx/csus-logo.png Graphic file (type png)
+
+<use gfx/csus-logo.png>
+Package pdftex.def Info: gfx/csus-logo.png used on input line 84.
+(pdftex.def)             Requested size: 142.22841pt x 16.42499pt.
+ [6
+
+ <F:/Github/mcgill-csus-docs/presentations/mcgill computer science orientation/
+gfx/HackMcGilllogo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+\OT1/Cabin-TLF/m/n/10.95 (+20) Tr1060 (you'll get an
+ []
+
+<gfx/darkside.jpg, id=79, 301.125pt x 376.40625pt>
+File: gfx/darkside.jpg Graphic file (type jpg)
+ <use gfx/darkside.jpg>
+Package pdftex.def Info: gfx/darkside.jpg used on input line 94.
+(pdftex.def)             Requested size: 119.39621pt x 149.24457pt.
+File: gfx/csus-logo.png Graphic file (type png)
+
+<use gfx/csus-logo.png>
+Package pdftex.def Info: gfx/csus-logo.png used on input line 95.
+(pdftex.def)             Requested size: 142.22841pt x 16.42499pt.
+ [7
+
+ <F:/Github/mcgill-csus-docs/presentations/mcgill computer science orientation/
+gfx/darkside.jpg>]
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 101.
+
+LaTeX Font Info:    Font shape `OT1/Cabin-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 101.
+LaTeX Font Info:    Font shape `OT1/Cabin-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 101.
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 106.
+
+File: gfx/csus-logo.png Graphic file (type png)
+<use gfx/csus-logo.png>
+Package pdftex.def Info: gfx/csus-logo.png used on input line 111.
+(pdftex.def)             Requested size: 142.22841pt x 16.42499pt.
  [8
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
 
-("E:\git\mcgill-csus-docs\presentations\mcgill computer science orientation\csu
-s-presentation-orientation.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+("F:\Github\mcgill-csus-docs\presentations\mcgill computer science orientation\
+csus-presentation-orientation.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
 Package rerunfilecheck Info: File `csus-presentation-orientation.out' has not c
 hanged.
-(rerunfilecheck)             Checksum: 4D94386A8D431B8D9FD1111DD61721D8;459.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
+(rerunfilecheck)             Checksum: F516528A5FB06810A01BB8C9B403FCD4;461.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 114.
  ) 
 Here is how much of TeX's memory you used:
- 12231 strings out of 493921
- 192673 string characters out of 3147282
- 336963 words of memory out of 3000000
- 15326 multiletter control sequences out of 15000+200000
+ 12487 strings out of 493921
+ 198813 string characters out of 3147282
+ 363898 words of memory out of 3000000
+ 15575 multiletter control sequences out of 15000+200000
  34728 words of font info for 47 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 59i,14n,100p,286b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cabin/cbn_cgvdav.enc}{C:/Program
- Files/MiKTeX 2.9/fonts/enc/dvips/cabin/cbn_gipwm5.enc}{C:/Program Files/MiKTeX
- 2.9/fonts/enc/dvips/cabin/cbn_gi6ftn.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/impallari/cabin/Cabin-Italic.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/i
-mpallari/cabin/Cabin-Regular.pfb>
-Output written on csus-presentation-orientation.pdf (8 pages, 1376810 bytes).
+ 59i,14n,100p,292b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Calem/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_gipwm5.e
+nc}{C:/Users/Calem/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_cgvdav.
+enc}{C:/Users/Calem/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_gi6ftn
+.enc}<C:/Users/Calem/AppData/Roaming/MiKTeX/2.9/fonts/type1/impallari/cabin/Cab
+in-Italic.pfb><C:/Users/Calem/AppData/Roaming/MiKTeX/2.9/fonts/type1/impallari/
+cabin/Cabin-Regular.pfb>
+Output written on csus-presentation-orientation.pdf (8 pages, 1197734 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 13924 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 13934 words of extra memory for PDF output out of 14400 (max. 10000000)
 
