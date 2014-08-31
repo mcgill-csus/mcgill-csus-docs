@@ -47,12 +47,12 @@ English and French are the official languages of the Society and all meetings ma
 
 ## Members of the Executive Council
 
-The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, VP Sustainability, VP Events, and U1 representative.
+The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, and U1 representative.
 
 ## Powers and Duties
 
 The Executive Council defines all general policies of CSUS, coordinates and administers the policies and affairs of CSUS,  acts as the governing body of CSUS, executes general assembly decisions, approves/rejects budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, creates or dissolves CSUS committees, determines the membership fee of membership of the society, and appoints the Chief Returning Office.
-Signing powers of the Society shall are exercised by at least two of the President, the VP Finance, the VP Administration, and the VP Academic or by any four executive council members.
+Signing powers of the Society shall are exercised by at least two of the President, the VP Administration, or the VP Internal or by any three executive council members.
 
 ## President
 
@@ -88,11 +88,6 @@ The U1 Representative will act as liaison between the U1 students and the Execut
 ## Vice-President Diversity
 
 The Vice-President Diversity will be responsible promoting racial diversity and gender equity for CSUS, act as a liason to other diversity bodies outside of the university, and otherwise improve equity and respectfulness amongst the constituency.
-
-## Vice-President Events
-
-The Vice-President Events will manage all events or delegate responsibility to manage events carried out by CSUS, should an event not be handled by another member of CSUS, minimise cost of events, and promote events.
-
 
 ## Meetings of the Executive Council
 
