@@ -85,10 +85,6 @@ The Vice-President Administration will be responsible for preparing and issuing 
 
 The U1 Representative will act as liaison between the U1 students and the Executive Council; represent the views of the Ul students at meetings of the Executive Council; hold a meeting of the Ul students when necessary; serve on the University Academic Committee (UAC) as Vice-Chairperson; serve as the Vice-Chair of the Executive Council.
 
-## Vice-President Sustainability
-
-The Vice-President Sustainability will be responsible for ensuring events and activities of CSUS are carried out in a sustainble fashion, determining how to maximise sustainability while minising cost, be responsible for promoting sustainability amongst the constituency, and create and promote sustainability events in conjunction with Vice-President Events.
-
 ## Vice-President Diversity
 
 The Vice-President Diversity will be responsible promoting racial diversity and gender equity for CSUS, act as a liason to other diversity bodies outside of the university, and otherwise improve equity and respectfulness amongst the constituency.
