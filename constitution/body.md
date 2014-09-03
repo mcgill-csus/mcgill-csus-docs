@@ -133,11 +133,13 @@ The General Assembly may make any decision, including the ratification or reject
 
 2. Referendums must be publicly available 6 days before vote and all details of the voting location, hours, etc. must also be posted.
 
-3. The Referendum shall be considered valid only if a minimum of thirty percent (30%) of CSUS members vote.
+3. The Referendum shall be considered valid only if a minimum of 15% CSUS members vote.
 
-4. Referendums are passed by a majority of membership.
+4. Referendua are passed by a majority of votership.
 
-5. Referendums overrule decisions by council or by general assembly. 
+5. Referenda overrule decisions by council or by general assembly. 
+
+6. Referenda, including changes to this constitution, may be performed by a unanimous vote by council at any time, but referenda made in this manner must be announced to the membership so that it may be reviewed and a petition process begun if desired.
 
 ## Impeachment
 
