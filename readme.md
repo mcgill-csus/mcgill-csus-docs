@@ -15,3 +15,16 @@ A title.
 | Finance        	| Genevieve Vanderveldt L'Esperance 	|
 | Administrative 	| Saige McVea                       	|
 
+
+More appropriate titles may soon be:
+
+
+| Position       	| Title                             	|
+|----------------	|-----------------------------------	|
+| King          	| Calem J Bendell                   	|
+| Grand Maester       	| Maude Lemaire                     	|
+| Lord Commander       	| Zili Zhang                        	|
+| Master of Whispers       	| Maxim Gorshkov                    	|
+| Master of Coin        	| Genevieve Vanderveldt L'Esperance 	|
+| Master of Laws 	| Saige McVea                       	|
+
