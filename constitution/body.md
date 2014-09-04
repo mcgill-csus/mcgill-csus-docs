@@ -117,15 +117,15 @@ The General Assembly may make any decision, including the ratification or reject
 
 ## Committees of CSUS
 
-1. CSUS may create committees and subgroups as needed.
-
-2. A committee's bylaws are initially created by CSUS and students interested in forming this committee and a 3/5 majority vote from the executive council modifies a committe's bylaws or existencee.
+CSUS may create committees and subgroups as needed.
+A committee's bylaws are initially created by CSUS and students interested in forming this committee and a 3/5 majority vote from the executive council modifies a committe's bylaws or existencee.
 
 ## Electoral Officer
 
-1. The Chief Returning Officer is responsible for administering elections.
+The Chief Returning Officer is responsible for administering elections.
+The CRO may not be a candidate in any Society election.
+The Executive Council elects a new CRO if the CRO decides to run for a position.
 
-2. The CRO may not be a candidate in any Society election.  The Executive Council elects a new CRO if the CRO decides to run for a position.
 
 ## Referenda
 
