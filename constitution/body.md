@@ -35,7 +35,8 @@ No member is empowered to act as an agent of CSUS unless permission to so act ha
 ## Finances of CSUS
 
 The fiscal year of the Society is April 15th -- April 14th of the following year.
-The accounts and inventory of CSUS, though not where the individual items of the inventory is kept, will be publicly available at all times.
+The accounts and inventory of CSUS, though not where the individual items of the inventory is kept nor the source of funding, will be publicly available at all times.
+Should a donor wish to do so anonymously or privately, this may be made nonpublic, but this is not preferable.
 
 ## Languages of the Society
 
