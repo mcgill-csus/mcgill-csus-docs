@@ -168,12 +168,6 @@ The terms for members of the Executive Council are from the April 15 and last on
 
 If the need for succession arises, another executive may assume his or her duties by a 2/3 election by the executive council or, should a 2/3 vote not be reached within 5 days, a reelection from the first day at the end of those 5 days until 10 days later.
 
-# The Constitution
-
-This Constitution supersedes and repeals all previous Constitutions.
-The Constitution of the society may only be amended by a referendum with a majority of two-thirds (2/3) of the voting members voting in favour.
-This constitutions comes into force immediately upon approval.
-
 # Bylaws
 
 ## Nomination Rules
