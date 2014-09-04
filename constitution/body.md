@@ -150,7 +150,7 @@ Council members are impeached by 2/3 vote of executive council or by a 25% vote 
 
 ## Eligible Voters and Candidates
 
-1. CSUS runs elections for the following positions: President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, VP Sustainability, and VP Events.
+1. CSUS runs elections for the following positions: President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, and VP Diversity.
 
 2. A U1 Representative, which can be more than one representative at the choice of the elected representative, is elected by the regular members who are first year computer science students, including those who have just transferred.  The U1 Representative(s) have one vote on executive council.
 
@@ -180,16 +180,14 @@ If the need for succession arises, another executive may assume his or her dutie
 
 ## Campaigning Rules
 
-The CRO may designate rules for the campaigning period.
-Candidates will not be reimbursed.
+The CRO may designate rules for the campaigning period but can be overruled by a 2/3 vote by the existing council.
 
 ## Balloting Rules
 
-The CRO shall be responsible for appointing polling clerks who will be paid minimum wage by council or more by 2/3 vote.
-The CRO must cast a sealed vote given to the council which will break ties.
 Ballots are counted as soon as practicable after the closing of the polls under the supervision of the CRO and those whom the CRO designates to assist him.
 All complaints, protest or petitions for a recount must be made to the CRO no later than three school days following the closing of the polls.
 The CRO shall invalidate the election at his discretion with a 2/3 vote of council.
+Ties are broken by a majority vote in the current executive council.
 
 ## Bylaw Amendments
 
