@@ -187,17 +187,8 @@ Candidates will not be reimbursed.
 
 The CRO shall be responsible for appointing polling clerks who will be paid minimum wage by council or more by 2/3 vote.
 The CRO must cast a sealed vote given to the council which will break ties.
-
-## Count, Recount and Protests
-
-1. Ballots are counted as soon as practicable after the closing of the polls under the supervision of the CRO and those whom the CRO designates to assist him.
-
-2. No ballot shall be counted in the presence of less than two persons and may be rejected if deemed spoiled by CRO with a 2/3 vote by executive council.
-
-3. All complaints, protest or petitions for a recount must be made to the CRO no later than three school days following the closing of the polls.
-
-## Invalidation
-
+Ballots are counted as soon as practicable after the closing of the polls under the supervision of the CRO and those whom the CRO designates to assist him.
+All complaints, protest or petitions for a recount must be made to the CRO no later than three school days following the closing of the polls.
 The CRO shall invalidate the election at his discretion with a 2/3 vote of council.
 
 ## Bylaw Amendments
