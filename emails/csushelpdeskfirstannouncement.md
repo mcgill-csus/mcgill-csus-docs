@@ -1,6 +1,8 @@
 # CSUS HELP DESK
 
-Just like last year, CSUS will be hosting an undergraduate help desk for students who want help in their COMP courses.  At the moment we don't have a set schedule for the tutoring hours.  In order to increase the hours of operation and be able to help more people, we'll be needing more tutors! 
+Just like last year, CSUS will be hosting an undergraduate help desk for students who want help in their COMP courses.  Tutors will provide help in coursework and homework, and answer any general questions about CS at McGill!  At the moment we don't have a set schedule for the tutoring hours.  However, the current goal is to start on September 15th on Monday to Thursday from 1pm to 5pm.  The help desk is situated on the third floor of Trottier by the glass pods.
+
+In order to increase the hours of operation and be able to help more people, we'll be needing more tutors! 
 
 What do I need to become a CSUSHD Tutor?
 > Tutors must have taken some of the following classes: COMP 202, 206, 273, 250/251.  They will also have to pass a short interview.
