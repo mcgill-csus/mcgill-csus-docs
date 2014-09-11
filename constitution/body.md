@@ -70,8 +70,7 @@ The Vice-President Internal will be responsible for the organization of social, 
 
 ## Vice-President Finance
 
-The Vice-President Finance will, in cooperation with the Executive Council, prepare the annual
-budget of CSUS, which includes the actual expenditures from the previous year, before October 15, in cooperation with the Executive Council, manage the funds of CSUS, keep proper financial accounts and records, and prepare a year-end financial report by April 14th for review by an independent person at minimal cost to the society.
+The Vice-President Finance will, in cooperation with the Executive Council, prepare the annual budget of CSUS, which includes the actual expenditures from the previous year, before October 15, in cooperation with the Executive Council, manage the funds of CSUS, keep proper financial accounts and records, and prepare a year-end financial report by April 14th for review by an independent person at minimal cost to the society.
 
 ## Vice-President Academic
 
@@ -84,11 +83,11 @@ The Vice-President Administration will prepare and issue agendas and minutes of 
 
 ## U1 Representative
 
-The U1 Representative will act as liaison between the U1 students and the Executive Council; represent the views of the Ul students at meetings of the Executive Council; hold a meeting of the Ul students when necessary; serve on the University Academic Committee (UAC) as Vice-Chairperson; serve as the Vice-Chair of the Executive Council.
+The U1 Representative will act as liaison between the U1 students and the Executive Council; represent the views of the Ul students at meetings of the Executive Council; hold a meeting of the Ul students when necessary; serve on the University Academic Committee (UAC) as Vice-Chairperson; and serve as the Vice-Chair of the Executive Council.
 
 ## Vice-President Diversity
 
-The Vice-President Diversity will be responsible promoting racial diversity and gender equity for CSUS, act as a liason to other diversity bodies outside of the university, and otherwise improve equity and respectfulness amongst the constituency.
+The Vice-President Diversity will promote racial diversity and gender equity for CSUS, act as a liason to other diversity bodies outside of the university, investigate issues on diversity and strategies to improve comfort within the department, and otherwise improve equity and respectfulness amongst the constituency.
 
 ## Meetings of the Executive Council
 
@@ -119,7 +118,7 @@ The General Assembly may make any decision, including the ratification or reject
 ## Committees of CSUS
 
 CSUS may create committees and subgroups as needed.
-A committee's bylaws are initially created by CSUS and students interested in forming this committee and a 3/5 majority vote from the executive council modifies a committe's bylaws or existencee.
+A committee's bylaws are initially created by CSUS and students interested in forming this committee, and a 3/5 majority vote from the executive council modifies a committe's bylaws or existencee.
 
 ## Electoral Officer
 
