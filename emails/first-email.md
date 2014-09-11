@@ -1,4 +1,4 @@
-Hey Dudes,
+Hey everyone,
 
 There are a few things to talk about.
 They've been sectioned off below so that you can read the parts you think are relevant to you.
