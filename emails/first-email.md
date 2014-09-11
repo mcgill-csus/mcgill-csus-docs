@@ -11,14 +11,14 @@ Having said that, each of the listserv emails will be fairly brief and clearly s
 Nomination forms for CSUS positions are available in front of the student lounge.
 We are looking for new:
 
-VP Admin
-VP External
-U1 Representative
-VP Diversity
-Comp Bio Rep
-Comp Maths Rep
-Comp Phys Rep
-any other position you think we need!
++ VP Admin
++ VP External
++ U1 Representative
++ VP Diversity
++ Comp Bio Rep
++ Comp Maths Rep
++ Comp Phys Rep
++ any other position you think we need!
 
 Pick up the form and put it back, filled in, in the same folder from which you retrieved the original by Monday, the 15th of September.
 We will gather these forms on Tuesday and start contacting people for interviews and discussions about the positions.
