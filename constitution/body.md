@@ -80,7 +80,7 @@ any judicial or academic or social proceedings taken against the student by the 
 
 ## Vice-President Administration
 
-The Vice-President Administration will be responsible for preparing and issuing agendas and minutes of CSUS Executive Council meetings and General Assemblies at least three school days prior to any CSUS Executive Council meeting or General Assembly; promote and coordinate communication within the Society; maintain the files of the Society; ensure members of CSUS Executive Council attend meetings and properly maintain their presence on necessary parts of source control; be responsible to have official minutes of the Executives and the General Assembly publicly available; and serve as an ex-officio member of all Society committees.
+The Vice-President Administration will prepare and issue agendas and minutes of CSUS Executive Council meetings and General Assemblies at least three school days prior to any CSUS Executive Council meeting or General Assembly; promote and coordinate communication within the Society; maintain the files of the Society; ensure members of CSUS Executive Council attend meetings and properly maintain their presence on necessary parts of source control; be responsible to have official minutes of the Executives and the General Assembly publicly available; and serve as an ex-officio member of all Society committees.
 
 ## U1 Representative
 
