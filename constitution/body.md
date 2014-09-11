@@ -53,7 +53,7 @@ The Executive Council consists of the President, Vice President (VP) Internal, V
 ## Powers and Duties
 
 The Executive Council defines all general policies of CSUS, coordinates and administers the policies and affairs of CSUS,  acts as the governing body of CSUS, executes general assembly decisions, approves/rejects budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, creates or dissolves CSUS committees, determines the membership fee of membership of the society, and appoints the Chief Returning Office.
-Signing powers of the Society shall are exercised by at least two of the President, the VP Administration, or the VP Internal or by any three executive council members.
+Signing powers of the Society are exercised by at least two of the President, the VP Administration, or the VP Internal or by any three executive council members.
 
 ## President
 
@@ -80,7 +80,7 @@ any judicial or academic or social proceedings taken against the student by the 
 
 ## Vice-President Administration
 
-The Vice-President Administration will be responsible for preparing and issuing agendas and minutes of CSUS Executive Council meetings and General Assemblies at least three school days prior to any CSUS Executive Council meeting or General Assembly; promote and coordinate communication within the Society; maintain the files of the Society; ensure members of CSUS Executive Council attend meetings and properly maintain their presence on necessary parts of source control; be responsible to have official minutes of the Executives and the General Assembly publicly available; and serve as an ex-officio member of all Society committees;
+The Vice-President Administration will be responsible for preparing and issuing agendas and minutes of CSUS Executive Council meetings and General Assemblies at least three school days prior to any CSUS Executive Council meeting or General Assembly; promote and coordinate communication within the Society; maintain the files of the Society; ensure members of CSUS Executive Council attend meetings and properly maintain their presence on necessary parts of source control; be responsible to have official minutes of the Executives and the General Assembly publicly available; and serve as an ex-officio member of all Society committees.
 
 ## U1 Representative
 

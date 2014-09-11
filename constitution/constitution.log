@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.8.28)  28 AUG 2014 11:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.8.28)  11 SEP 2014 12:18
 entering extended mode
 **constitution.tex
 (F:\Github\mcgill-csus-docs\constitution\constitution.tex
@@ -940,30 +940,539 @@ Package microtype Info: Character `029' is missing
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 14.
 
-(F:\Github\mcgill-csus-docs\constitution\body.tex [1
+(F:\Github\mcgill-csus-docs\constitution\body.tex
 
-{C:/Users/Calem/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
-) [5]
-(F:\Github\mcgill-csus-docs\constitution\constitution.aux) ) 
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 11.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 19.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 28.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 35.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 42.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 52.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 59.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 69.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 75.
+
+[1
+
+{C:/Users/Calem/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 88.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 96.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 106.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 115.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 125.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 135.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 148.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 157.
+
+[2]
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 166.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 173.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 181.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 190.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 197.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 222.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 234.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 246.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 265.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 273.
+
+[3]
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 289.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 298.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 304.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 320.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 335.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 340.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 347.
+
+[4]
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 365.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 370.
+
+) [5] (F:\Github\mcgill-csus-docs\constitution\constitution.aux) ) 
 Here is how much of TeX's memory you used:
- 8947 strings out of 493921
- 133186 string characters out of 3147282
+ 8965 strings out of 493921
+ 133399 string characters out of 3147282
  279783 words of memory out of 3000000
- 11927 multiletter control sequences out of 15000+200000
- 77532 words of font info for 159 fonts, out of 3000000 for 9000
+ 11930 multiletter control sequences out of 15000+200000
+ 83829 words of font info for 168 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  47i,7n,55p,310b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Calem/App
-Data/Roaming/MiKTeX/2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{C:/Program 
-Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Users/Calem/AppData/Roamin
-g/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_aojlca.enc}{C:/Users/Calem/AppData/Roami
-ng/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_hvmmj2.enc}<C:/Users/Calem/AppData/Roam
-ing/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Regular.pfb><C:/Users/Calem/Ap
-pData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/Calem
-/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmne.pfb>
-Output written on constitution.pdf (5 pages, 50073 bytes).
+{C:/Users/Cal
+em/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{C:/Pr
+ogram Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Users/Calem/AppData/
+Roaming/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_aojlca.enc}{C:/Users/Calem/AppData
+/Roaming/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_hvmmj2.enc}<C:/Users/Calem/AppDat
+a/Roaming/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Regular.pfb><C:/Users/Ca
+lem/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/User
+s/Calem/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmite.pfb><C:/U
+sers/Calem/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C
+:/Users/Calem/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/kpfonts/jkpmne.pfb>
+Output written on constitution.pdf (5 pages, 63814 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 19969 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 26113 words of extra memory for PDF output out of 29859 (max. 10000000)
 
