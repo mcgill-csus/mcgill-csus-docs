@@ -11,9 +11,9 @@ A title.
 | President      	| Calem J Bendell                   	|
 | Academic       	| Maude Lemaire                     	|
 | Internal       	| Zili Zhang                        	|
-| External       	| Maxim Gorshkov                    	|
+| External       	| Ian Karp                   	|
 | Finance        	| Genevieve Vanderveldt L'Esperance 	|
-| Administrative 	| Saige McVea                       	|
+| Administrative 	| Shahab Razavi                       	|
 
 
 More appropriate titles may soon be:
@@ -24,7 +24,7 @@ More appropriate titles may soon be:
 | King          	| Calem J Bendell                   	|
 | Grand Maester       	| Maude Lemaire                     	|
 | Lord Commander       	| Zili Zhang                        	|
-| Master of Whispers       	| Maxim Gorshkov                    	|
+| Master of Whispers       	| Ian Karp                    	|
 | Master of Coin        	| Genevieve Vanderveldt L'Esperance 	|
-| Master of Laws 	| Saige McVea                       	|
+| Master of Laws 	| Shahab Razavi                       	|
 
