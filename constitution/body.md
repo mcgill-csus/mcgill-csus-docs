@@ -81,6 +81,10 @@ any judicial or academic or social proceedings taken against the student by the 
 
 The Vice-President Administration will prepare and issue agendas and minutes of CSUS Executive Council meetings and General Assemblies at least three school days prior to any CSUS Executive Council meeting or General Assembly; promote and coordinate communication within the Society; maintain the files of the Society; ensure members of CSUS Executive Council attend meetings and properly maintain their presence on necessary parts of source control; be responsible to have official minutes of the Executives and the General Assembly publicly available; and serve as an ex-officio member of all Society committees.
 
+## Vice-President Events
+
+The Vice-President of events presides over events and works towards both the creation of new events the success of traditional events.
+
 ## U1 Representative
 
 The U1 Representative will act as liaison between the U1 students and the Executive Council; represent the views of the Ul students at meetings of the Executive Council; hold a meeting of the Ul students when necessary; serve on the University Academic Committee (UAC) as Vice-Chairperson; and serve as the Vice-Chair of the Executive Council.
