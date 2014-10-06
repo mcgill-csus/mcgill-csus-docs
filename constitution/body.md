@@ -91,7 +91,7 @@ The U1 Representative will act as liaison between the U1 students and the Execut
 
 ## Vice-President Diversity
 
-The Vice-President Diversity will promote racial diversity and gender equity for CSUS, act as a liason to other diversity bodies outside of the university, investigate issues on diversity and strategies to improve comfort within the department, and otherwise improve equity and respectfulness amongst the constituency.
+The Vice-President Diversity will promote diversity and equity for underrepresented groups in CSUS (people of colour, LGBTQ, women, indigenous people, people with (dis)abilities, etc.), act as a liaison to other diversity bodies both inside and outside of the university, investigate issues on diversity and strategies to build a supportive and inclusive community within the department, and otherwise improve equity, respectfulness and dialogue amongst the constituency. By accepting this role, VP Diversity also commits to participate in at least one anti-oppression workshop. It is strongly recommended that some of the training focuses on the VP’s outgroups.
 
 ## Meetings of the Executive Council
 
