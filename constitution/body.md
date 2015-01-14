@@ -15,7 +15,7 @@ In English, the society is "the Computer Science Undergraduate Society of McGill
 CSUS' membership is all students registered in an Undergraduate programme in the School of Computer Science at McGill University, given payment of fees prescribed in Article 4.
 Any student registered in a Computer Science Major or Computer Science Honours programme is considered a member.
 Payment of society fees also grants membership.
-The fees for CSUS will be determined by the Science Undergraduate Society of McGill University (SUS).
+The fees for CSUS will be determined by the Science Undergraduate Society of McGill University (SUS) and the Arts Undergraduate Society (AUS) for their respective constituencies.
 
 ## Purpose
 
@@ -151,6 +151,8 @@ Council members are impeached by 2/3 vote of executive council or by a 25% vote 
 1. CSUS runs elections for the VP positions.
 
 2. A U1 Representative, which can be more than one representative at the choice of the elected representative, is elected by the regular members who are first year computer science students in the first month of the school year, including those who have just transferred.
+
+3. Any student of McGill University may run for CSUS positions.  
 
 ## Procedures
 
