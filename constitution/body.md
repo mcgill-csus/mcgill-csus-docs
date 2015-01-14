@@ -8,28 +8,23 @@ CSUS may receive external funding and is free to independently administer this f
 
 ## Name
 
-In English, the society is "the Computer Science Undergraduate Society of McGill University," and in French it is "L'Association des Etudiants et Etudiantes en Informatique de L'Universite McGill".
-These will be referred to as CSUS and AEIM respectively throughout this document.
+In English, the society is "the Computer Science Undergraduate Society of McGill University" (CSUS), and in French it is "L'Association des Etudiants et Etudiantes en Informatique de L'Universite McGill" (AEIM).
 
 ## Membership
 
 CSUS' membership is all students registered in an Undergraduate programme in the School of Computer Science at McGill University, given payment of fees prescribed in Article 4.
-Any student registered in a Computer Science Major or Computer Science Honours programme is considered a member. Students may be granted membership by the Executive Council subject to Article 4 (payment).
+Any student registered in a Computer Science Major or Computer Science Honours programme is considered a member.
+Payment of society fees also grants membership.
+The fees for CSUS will be determined by the Science Undergraduate Society of McGill University (SUS).
 
 ## Purpose
 
-The primary purpose of CSUS is to protect the academic rights and interests of its constituency.
+The purpose of CSUS is to protect the academic rights and interests of its constituency.
 Other duties of CSUS is to represent and promote the views of its members and to implement academic, educational, cultural, social and other programmes of interest to its members.
-
-## Society Fees
-
-The fees for CSUS will be determined by the Science Undergraduate Society of McGill University (Hereafter referred to as SUS).
-Additional fees specific to CSUS may be added by referendum.
 
 ## Rights, Privileges and Obligations of Members
 
 The privileges of the members include making use of CSUS facilities and services, taking part in all CSUS politicking, academic, and entertainment events, and participating in the organisation of any politicking, academics, and events.
-It is an obligation of all CSUS members to conform to CSUS Constitution, regulations and bylaws.
 No member is empowered to act as an agent of CSUS unless permission to so act has been granted be the Executive Council of CSUS.
 
 ## Finances of CSUS
@@ -125,7 +120,7 @@ A committee's bylaws are initially created by CSUS and students interested in fo
 
 ## Electoral Officer
 
-The Chief Returning Officer is responsible for administering elections.
+The Chief Returning Officer or the current president is responsible for administering elections.
 The CRO may not be a candidate in any Society election.
 The Executive Council elects a new CRO if the CRO decides to run for a position.
 
@@ -153,13 +148,13 @@ Council members are impeached by 2/3 vote of executive council or by a 25% vote 
 
 ## Eligible Voters and Candidates
 
-1. CSUS runs elections for the following positions: President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, and VP Diversity.
+1. CSUS runs elections for the VP positions.
 
-2. A U1 Representative, which can be more than one representative at the choice of the elected representative, is elected by the regular members who are first year computer science students, including those who have just transferred.  The U1 Representative(s) have one vote on executive council.
+2. A U1 Representative, which can be more than one representative at the choice of the elected representative, is elected by the regular members who are first year computer science students in the first month of the school year, including those who have just transferred.
 
 ## Procedures
 
-Elections are held between the first and last days of March excepting the U1 rep, who is appointed between the first and last days of September.
+Elections are held between the first and last days of March.
 Vacancies are filled by elections at the discretion of the CRO.
 Elections can also be initiated and administered collectively by the executive committee by a 2/3 vote to fill vacancies and such elections will run for fifteen days starting from the day of the vote.
 
