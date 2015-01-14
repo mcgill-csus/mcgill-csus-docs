@@ -50,46 +50,42 @@ English and French are the official languages of the Society and all meetings ma
 
 The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, VP Communications, and U1 representative.
 
-## Powers and Duties
+### Powers and Duties
 
 The Executive Council defines all general policies of CSUS, coordinates and administers the policies and affairs of CSUS,  acts as the governing body of CSUS, executes general assembly decisions, approves/rejects budgets for all CSUS committees, though this task may be delegated by a 2/3 majority of the council to VP Finance, creates or dissolves CSUS committees, determines the membership fee of membership of the society, and appoints the Chief Returning Office.
 Signing powers of the Society are exercised by at least two of the President, the VP Administration, or the VP Internal or by any three executive council members.
 
-## President
+### President
 
 The President will coordinate and supervise the affairs of the Society, call and chair over the Executive Council meetings, chair General Assemblies, serve as an ex-officio member of all Society committees, be the official representative of the Society, and be adminstrator of revision control repositories and other documents.
 
-## Vice-President External
+### Vice-President External
 
 The Vice-President External will, in the absence of the President, be empowered to perform any function
 of the President, be responsible for maintaining links with student organizations at the university, provincial, federal and international levels and with computer science student societies of other universities, and be responsible for maintaining relations with industry, government and other groups outside University.
 
-## Vice-President Internal
+### Vice-President Internal
 
 The Vice-President Internal will be responsible for the organization of social, cultural and other activities for the members of CSUS, be chair of the Social Activities Committee (SAC), maintain and promote relations with other Faculties, Student Associations, and administrative bodies of the University (Internal Affairs), and be responsible for the society's facilities and equipment.
 
-## Vice-President Finance
+### Vice-President Finance
 
 The Vice-President Finance will, in cooperation with the Executive Council, prepare the annual budget of CSUS, which includes the actual expenditures from the previous year, before October 15, in cooperation with the Executive Council, manage the funds of CSUS, keep proper financial accounts and records, and prepare a year-end financial report by April 14th for review by an independent person at minimal cost to the society.
 
-## Vice-President Academic
+### Vice-President Academic
 
 The Vice-President Academic will be responsible for all educational and curricular concerns of CSUS, whether they are internal or external to the University, may represent a student, upon the demand of the student in writing, in
 any judicial or academic or social proceedings taken against the student by the University, or a delegate appointed by the University, and be chair of the University Academic Committee (UAC).
 
-## Vice-President Administration
+### Vice-President Administration
 
 The Vice-President Administration will prepare and issue agendas and minutes of CSUS Executive Council meetings and General Assemblies at least three school days prior to any CSUS Executive Council meeting or General Assembly; promote and coordinate communication within the Society; maintain the files of the Society; ensure members of CSUS Executive Council attend meetings and properly maintain their presence on necessary parts of source control; be responsible to have official minutes of the Executives and the General Assembly publicly available; and serve as an ex-officio member of all Society committees.
 
-## Vice-President Events
+### Vice-President Events
 
 The Vice-President of events presides over events and works towards both the creation of new events the success of traditional events.
 
-## U1 Representative
-
-The U1 Representative will act as liaison between the U1 students and the Executive Council; represent the views of the Ul students at meetings of the Executive Council; hold a meeting of the Ul students when necessary; serve on the University Academic Committee (UAC) as Vice-Chairperson; and serve as the Vice-Chair of the Executive Council.
-
-## Vice-President Diversity
+### Vice-President Diversity
 
 The Vice-President Diversity will promote diversity and equity for underrepresented groups in CSUS, act as a liaison to other diversity bodies both inside and outside of the university, investigate issues on diversity and strategies to build a supportive and inclusive community within the department, and otherwise improve equity, respectfulness and dialogue amongst the constituency. By accepting this role, VP Diversity also commits to participate in at least one anti-oppression workshop. It is strongly recommended that some of the training focuses on the VP’s outgroups.
 
@@ -97,6 +93,10 @@ The Vice-President Diversity will promote diversity and equity for underrepresen
 
 The Vice-President Communications monitors interactions between CSUS and its constituency.
 This includes controlling the CSUS Facebook account, its listserv, its Twitter, and any other methods of communication that will ensure the student body knows CSUS activity and can provide easy feedback. 
+
+## Representatives on CSUS
+
+The suggested representatives include those for U1 students, the games society, the help desk, arts students, and science students.
 
 ## Meetings of the Executive Council
 
@@ -112,17 +112,11 @@ The General Assembly may make any decision, including the ratification or reject
 
 1. The executive council may call a general assembly at any time.
 
-2. Students should be notified of a general assembly at least 5 days prior the assembly.
+2. There are no restrictions or regulations regarding the motions or procedurs at the general assembly unless set by the current council.
 
-3. There are no restrictions or regulations regarding the motions at the general assembly.
+3. The Quorum for a GA is 20% of the membership.
 
-4. Students should be notified of the agenda at least 2 days prior to the assembly.
-
-5. The Quorum for a GA is 20% of the membership.
-
-6. Procedures at a GA are as seen fit by the current council.
-
-7. General assemblies are held at the discretion of the current council, but if at least 10% of students request a GA one must be held within 20 days of the request.
+4. General assemblies are held at the discretion of the current council, but if at least 10% of students request a GA one must be held within 20 days of the request.
 
 ## Committees of CSUS
 
