@@ -48,7 +48,7 @@ English and French are the official languages of the Society and all meetings ma
 
 ## Members of the Executive Council
 
-The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, and U1 representative.
+The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, VP Communications, and U1 representative.
 
 ## Powers and Duties
 
@@ -91,7 +91,12 @@ The U1 Representative will act as liaison between the U1 students and the Execut
 
 ## Vice-President Diversity
 
-The Vice-President Diversity will promote diversity and equity for underrepresented groups in CSUS (people of colour, LGBTQ, women, indigenous people, people with (dis)abilities, etc.), act as a liaison to other diversity bodies both inside and outside of the university, investigate issues on diversity and strategies to build a supportive and inclusive community within the department, and otherwise improve equity, respectfulness and dialogue amongst the constituency. By accepting this role, VP Diversity also commits to participate in at least one anti-oppression workshop. It is strongly recommended that some of the training focuses on the VP’s outgroups.
+The Vice-President Diversity will promote diversity and equity for underrepresented groups in CSUS, act as a liaison to other diversity bodies both inside and outside of the university, investigate issues on diversity and strategies to build a supportive and inclusive community within the department, and otherwise improve equity, respectfulness and dialogue amongst the constituency. By accepting this role, VP Diversity also commits to participate in at least one anti-oppression workshop. It is strongly recommended that some of the training focuses on the VP’s outgroups.
+
+## Vice-President Communications
+
+The Vice-President Communications monitors interactions between CSUS and its constituency.
+This includes controlling the CSUS Facebook account, its listserv, its Twitter, and any other methods of communication that will ensure the student body knows CSUS activity and can provide easy feedback. 
 
 ## Meetings of the Executive Council
 
