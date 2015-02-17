@@ -1,3 +1,9 @@
+---
+title: Computer Science Undergraduate Constitution
+author: Bendell, Gourdeau, et al.
+date: 15/02/17
+---
+
 The Computer Science Undergraduate Society (CSUS) is only a legal body within the compound of McGill University.
 This organization is strictly a student organization and student interest group.
 CSUS is a non-profit organization and receives funding based on a formula as described in the Arts Undergraduate Society, the Science Undergraduate Society (SUS), and the Student Society of McGill University (SSMU).
