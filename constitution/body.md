@@ -88,8 +88,7 @@ The Vice-President of events presides over events and works towards both the cre
 
 ### Vice-President Diversity
 
-The Vice-President Diversity will promote diversity and equity for underrepresented groups in CSUS, act as a liaison to other diversity bodies both inside and outside of the university, investigate issues on diversity and strategies to build a supportive and inclusive community within the department, be responsible for Diversity@SOCS and otherwise improve equity, respectfulness and dialogue amongst the constituency. By accepting this role, VP Diversity also commits to participate in at least one anti-oppression workshop. It is strongly recommended that some of the training focuses on the VP’s outgroups.
-Two VP positions are available.
+The Vice-President Diversity will promote diversity and equity for underrepresented groups in CSUS, act as a liaison to other diversity bodies both inside and outside of the university, investigate issues on diversity and strategies to build a supportive and inclusive community within the department, be responsible for Diversity@SOCS and otherwise improve equity, respectfulness and dialogue amongst the constituency.
 
 ## Vice-President Communications
 
