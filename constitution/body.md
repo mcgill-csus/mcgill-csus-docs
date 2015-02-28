@@ -119,10 +119,6 @@ The General Assembly may make any decision, including the ratification or reject
 
 4. General assemblies are held at the discretion of the current council, but if at least 10% of students request a GA one must be held within 20 days of the request.
 
-## Committees of CSUS
-
-CSUS may create committees and subgroups as needed.
-A committee's bylaws are initially created by CSUS and students interested in forming this committee, and a 3/5 majority vote from the executive council modifies a committe's bylaws or existencee.
 
 ## Electoral Officer
 
