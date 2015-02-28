@@ -99,6 +99,12 @@ This includes controlling the CSUS Facebook account, its listserv, its Twitter, 
 
 The suggested representatives include those for U1 students, the games society, the help desk, arts students, and science students.
 
+### CSUS Help Desk Representative
+
+The CSUS Help Desk representative will ensure the overall running of the help desk.
+This includes recruiting and interviewing all tutors, creating the schedule for the help desk tutors, and working on promotion through course websites, facebook pages, and flyers.
+The representative will also provide all tutors with a document verifying their tutoring hours at the end of the year.
+
 ## Meetings of the Executive Council
 
 Quorum for a Regular meeting of CSUS Executive Council is four members and quorum for online interactions, where relevant, is six members.
