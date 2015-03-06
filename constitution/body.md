@@ -11,7 +11,7 @@ CSUS may receive external funding and is free to independently administer this f
 
 
 # The Society
-r
+
 ## Name
 
 In English, the society is "the Computer Science Undergraduate Society of McGill University" (CSUS), and in French it is "L'Association des Etudiants et Etudiantes en Informatique de L'Universite McGill" (AEIM).
@@ -165,7 +165,7 @@ Council members are impeached by 2/3 vote of executive council or by a 25% vote 
 ## Procedures
 
 Elections are held between the first and last days of March.
-Vacancies are filled by elections at the discretion of the CRO.
+Vacancies are filled by elections at the discretion of the CRO or president or VP admin as majority council chooses.
 Elections can also be initiated and administered collectively by the executive committee by a 2/3 vote to fill vacancies and such elections will run for fifteen days starting from the day of the vote.
 
 ## Terms of Office
