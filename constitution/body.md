@@ -11,7 +11,7 @@ CSUS may receive external funding and is free to independently administer this f
 
 
 # The Society
-
+r
 ## Name
 
 In English, the society is "the Computer Science Undergraduate Society of McGill University" (CSUS), and in French it is "L'Association des Etudiants et Etudiantes en Informatique de L'Universite McGill" (AEIM).
@@ -141,7 +141,7 @@ The Executive Council elects a new CRO if the CRO decides to run for a position.
 
 3. The Referendum shall be considered valid only if a minimum of 15% CSUS members vote.
 
-4. Referendua are passed by a majority of votership.
+4. Referenda are passed by a majority of votership.
 
 5. Referenda overrule decisions by council or by general assembly. 
 
