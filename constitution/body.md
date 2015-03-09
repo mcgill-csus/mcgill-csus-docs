@@ -105,7 +105,7 @@ The CSUS Help Desk representative will ensure the overall running of the help de
 This includes recruiting and interviewing all tutors, creating the schedule for the help desk tutors, and working on promotion through course websites, facebook pages, and flyers.
 The representative will also provide all tutors with a document verifying their tutoring hours at the end of the year.
 
-### U1 Reoresentative
+### U1 Representative
 The U1 representative will facilitate event organizer, create new events for U1 Student. 
 
 ## Meetings of the Executive Council
