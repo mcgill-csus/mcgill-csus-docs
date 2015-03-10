@@ -18,7 +18,7 @@ In English, the society is "the Computer Science Undergraduate Society of McGill
 
 ## Membership
 
-CSUS' membership is all students registered in an Undergraduate programme in the School of Computer Science at McGill University, given payment of fees prescribed in Article 4.
+CSUS' membership is all students registered in an Undergraduate programme in the School of Computer Science at McGill University, including minor, liberal, and arts programs, given payment of fees prescribed in Article 4.
 Any student registered in a Computer Science Major or Computer Science Honours programme is considered a member.
 Payment of society fees also grants membership.
 The fees for CSUS will be determined by the Science Undergraduate Society of McGill University (SUS) and the Arts Undergraduate Society (AUS) for their respective constituencies.
