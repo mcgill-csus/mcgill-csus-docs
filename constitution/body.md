@@ -159,7 +159,7 @@ Council members are impeached by 2/3 vote of executive council or by a 25% vote 
 
 ## Eligible Voters and Candidates
 
-1. CSUS runs elections for the VP positions.
+1. CSUS runs elections for the President, VP Internal, VP External, VP Academic, and VP Administration.
 
 2. A U1 Representative, which can be more than one representative at the choice of the elected representative, is elected by the regular members who are first year computer science students in the first month of the school year, including those who have just transferred.
 
