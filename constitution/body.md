@@ -50,7 +50,7 @@ English and French are the official languages of the Society and all meetings ma
 
 ## Members of the Executive Council
 
-The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, VP Diversity, VP Communications, and U1 representative.
+The Executive Council consists of the President, Vice President (VP) Internal, VP External, VP Finance, VP Academic, VP Administration, Equity Commissioner, and VP Communications.
 
 ### Powers and Duties
 
