@@ -86,9 +86,9 @@ The Vice-President Administration will prepare and issue agendas and minutes of 
 
 The Vice-President of events presides over events and works towards both the creation of new events the success of traditional events.
 
-### Vice-President Diversity
+### Equity Commissioner
 
-The Vice-President Diversity will promote diversity and equity for underrepresented groups in CSUS, act as a liaison to other diversity bodies both inside and outside of the university, investigate issues on diversity and strategies to build a supportive and inclusive community within the department, be responsible for Diversity@SOCS and otherwise improve equity, respectfulness and dialogue amongst the constituency. By accepting this role, VP Diversity also commits to participate in at least one anti-oppression workshop. It is strongly recommended that some of the training focuses on the VP’s outgroups.
+The Equity Commissioner (EC) promotes diversity and equity for underrepresented groups in CSUS, acts as a liaison to other diversity bodies both inside and outside of the university, investigates strategies to build a supportive and inclusive community and to improve equity, respectfulness and dialogue within the department, and is responsible for Diversity@SOCS. The EC also commits to participate in at least one anti-oppression/equity training or workshop.
 
 ## Vice-President Communications
 
