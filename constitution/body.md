@@ -1,5 +1,5 @@
 ---
-title: Computer Science Undergraduate Constitution
+title: Computer Science Undergraduate Society Constitution
 author: Computer Science Undergraduate Society
 date: 2015 March 11
 ---
