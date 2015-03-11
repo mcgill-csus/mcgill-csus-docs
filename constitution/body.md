@@ -1,7 +1,7 @@
 ---
 title: Computer Science Undergraduate Constitution
-author: Bendell, Gourdeau, et al.
-date: 15/02/17
+author: Computer Science Undergraduate Society
+date: 2015 March 11
 ---
 
 The Computer Science Undergraduate Society (CSUS) is only a legal body within the compound of McGill University.
