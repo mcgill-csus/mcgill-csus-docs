@@ -168,7 +168,7 @@ Council members are impeached by 2/3 vote of executive council or by a 25% vote 
 ## Procedures
 
 Elections are held between the first and last days of March.
-Vacancies may be filled at the discretion of the CRO, president, or VP admin so long as council majority votes in agreement.
+Vacancies outside of this period may be filled at the discretion of the CRO, president, or VP admin so long as council majority votes in agreement.
 Elections can also be initiated and administered collectively by the executive committee by a 2/3 vote to fill vacancies and such elections will run for fifteen days starting from the day of the vote.
 
 ## Terms of Office
