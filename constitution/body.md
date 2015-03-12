@@ -65,6 +65,7 @@ The President will coordinate and supervise the affairs of the Society, call and
 
 The Vice-President External will, in the absence of the President, be empowered to perform any function
 of the President, be responsible for maintaining links with student organizations at the university, provincial, federal and international levels and with computer science student societies of other universities, and be responsible for maintaining relations with industry, government and other groups outside University.
+The VP external must find an individual with voting power to attend every GC of the SUS.
 
 ### Vice-President Internal
 
