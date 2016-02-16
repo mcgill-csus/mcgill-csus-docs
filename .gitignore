@@ -1,0 +1,5 @@
+*.aux
+constitution-amend-2015-2016/constitution.log
+*.out
+constitution-amend-2015-2016/constitution.synctex.gz
+*.toc
