@@ -1,5 +1,5 @@
 % article example for classicthesis.sty
-\documentclass[10pt,letterpaper]{article} % KOMA-Script article scrartcl
+\documentclass[10pt,letterpaper,dottedtoc]{article} % KOMA-Script article scrartcl
 \usepackage{url}
 \usepackage[nochapters]{classicthesis} % nochapters
 \hypersetup{
@@ -9,13 +9,24 @@
 	pdfmenubar=true,        % show Acrobat’s menu?
 	pdffitwindow=false,     % window fit to page when opened
 	pdfstartview={FitH},    % fits the width of the page to the window
-	pdftitle={My title},    % title
-	pdfauthor={McGill Computer Science Undergraduate Society},     % author
-	pdfsubject={Constitution},   % subject of the document
-	pdfcreator={McGill Computer Science Undergraduate Society},   % creator of the document
-	pdfproducer={LaTeX}, % producer of the document
+	pdftitle={
+		Constitution of the McGill 
+		Computer Science Undergraduate Society
+	},    					% title
+	pdfauthor={
+		McGill Computer Science 
+		Undergraduate Society
+	},     					% author
+	pdfsubject={
+		Constitution of the McGill 
+		Computer Science Undergraduate Society
+	},   					% subject of the document
+	pdfcreator={
+		McGill Computer Science Undergraduate Society
+	},   					% creator of the document
+	pdfproducer={LaTeX},    % producer of the document
 	pdfnewwindow=true,      % links in new PDF window
-	colorlinks=true,       % false: boxed links; true: colored links
+	colorlinks=true,        % false: boxed links; true: colored links
 	linkcolor=red,          % color of internal links (change box color with linkbordercolor)
 	citecolor=green,        % color of links to bibliography
 	filecolor=magenta,      % color of file links
@@ -24,15 +35,19 @@
 \usepackage[left=2in,right=2in,top=1in,bottom=1in]{geometry}
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\let\oldpart\part
+\renewcommand\part{\clearpage\oldpart}
+\setcounter{tocdepth}{1} % 1 includes up to sections in the ToC
 
 \begin{document}
     \title{\rmfamily\normalfont\spacedallcaps{Constitution of the McGill Computer Science Undergraduate Society}}
-    \author{}
     \date{\vspace{-2em}} % no date
     
     \maketitle
-       
+    
     \tableofcontents
+
+    \newpage    
     
     \vspace*{1em}
     
