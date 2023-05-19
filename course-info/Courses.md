@@ -140,10 +140,10 @@ __Student Feedback__:
 + [Sample syllabus](http://s3.amazonaws.com/docuum/attachments/7481/(13W)%20Syllabus.pdf?1367180413)
 
 ###COMP 321: Programming Challenges
-+ __1 credit__
-+ __Not offered every year__
++ __3 credits__
++ __Typically fall__
 + Development of programming skills on tricky challenges, games and puzzles by means of programming competitions.
-+ __Prereqs:__ COMP 250 or 206 or 203; MATH 223 and 240.
++ __Prereqs:__ COMP 206.
 + No sample syllabus available at this time
 
 ###COMP 322: Introduction to C++
@@ -159,6 +159,13 @@ __Student Feedback__:
 + Mathematical models of computers, finite automata, Turing machines, counter machines, push-down machines, computational complexity.
 + __Prereq:__ COMP 251
 + [Sample syllabus](http://crypto.cs.mcgill.ca/~crepeau/COMP330/Outline.pdf)
+
+###COMP 345: From Natural Language to Data Science
++ __3 credits__
++ __Winter__
++ Introduction to language data science, including theoretical approaches and practical skills. Processing, searching, and querying text data; making sense of large corpora; modelling and interpreting psycholinguistic and historical language data; building models of sequences of words; computing similarity between languages; information retrieval and extraction; question answering; and ethics.
++ __Prereqs:__ COMP 250, and MATH 240; or permission of the instructor.
++ No sample syllabus available at this time
 
 ###COMP 350: Numerical Computing
 + __3 credits__
@@ -201,6 +208,14 @@ __Student Feedback__:
 + __Restriction:__ Not available to students in Computer Science or Joint Computer Science programs.
 + [Sample syllabus](http://www.cs.mcgill.ca/~mperre12/static/COMP364SyllabusW2012.pdf)
 
+###COMP 370: Introduction to Data Science
++ __3 credits__
++ __Fall__
++ Comprehensive introduction to the data science process. Orientation to the use and configuration of core data science toolkits, data collection and annotation fundamentals, principles of responsible data science, the use of quantitative tools in data science, and presentation of data science findings.
++ __Prereqs:__ COMP 206 and COMP 250
++ __Restriction:__ Not open to students who have taken COMP 598 when the topic was "Introduction to Data Science" or "Data Science".
++ No sample syllabus available at this time.
+
 ###COMP 396: Undergraduate Research Project
 + __3 credits__
 + __Fall & winter__
@@ -215,7 +230,7 @@ __Student Feedback__:
 + __Fall & winter__
 + A computer related project, typically a programming effort, along with a report will be carried out in cooperation with a staff member in the School of Computer Science.
 + __Prereqs:__ 15 Computer Science Credits
-+ __Restrictions:__ For Honours Students
++ __Restrictions:__ For Honours students, or non-Honours students with permission of the department.
 + No syllabus
 
 ###COMP 401: Project in Biology and Computer Science
@@ -278,6 +293,14 @@ __Student Feedback__:
 + Models and Architectures. Application-oriented communication paradigms (e.g. remote method invocation, group communication). Naming services. Synchronization (e.g. mutual exclusion, concurrency control). Fault-tolerance (e.g. process and replication, agreement protocols). Distributed file systems. Security. Examples of distributed systems (e.g. Web, CORBA). Advanced Topics.
 + __Prereqs:__ COMP 310, COMP 251 or equivalent
 + [Sample syllabus](http://www.cs.mcgill.ca/~kemme/cs512/)
+
+###COMP 514: Applied Robotics
++ __4 credits__
++ __Fall__
++ The approach and the challenges in the key components of manipulators and locomotors: representations, kinematics, dynamics, rigid-body chains, redundant systems, under-actuated systems, control, planning, and perception. Practical aspects of robotics: collisions, integrating sensory feedback, and real-time software development.
++ __Prereqs:__ MATH 223, MATH 323, COMP 206, and COMP 250, or equivalents.
++ __Restriction:__ Not open to students who have taken COMP 597 when the topic was "Applied Robotics".
++ No syllabus available at this time
 
 ###COMP 520: Compiler Design
 + __4 credits__
@@ -387,6 +410,23 @@ __Student Feedback__:
 + __Prereqs:__ COMP 360/362 and MATH 323
 + [Sample syllabus](http://crypto.cs.mcgill.ca/%7Ecrepeau/COMP547/Outline14.html)
 
+###COMP 550: Natural Language Processing
++ __3 credits__
++ __Fall__
++ An introduction to the computational modelling of natural language, including algorithms, formalisms, and applications. Computational morphology, language modelling, syntactic parsing, lexical and compositional semantics, and discourse analysis. Selected applications such as automatic summarization, machine translation, and speech processing. Machine learning techniques for natural language processing.
++ __Prereqs:__ MATH 323 or ECSE 305, COMP 251 or COMP 252
++ __Restrictions:__ Not open to students who have taken COMP 599 in 201509 or 201609.
++ No syllabus available at this time
+
+###COMP 551: Applied Machine Learning
++ __4 credits__
++ __Fall & Winter__
++ Selected topics in machine learning and data mining, including clustering, neural networks, support vector machines, decision trees. Methods include feature selection and dimensionality reduction, error estimation and empirical validation, algorithm design and parallelization, and handling of large data sets. Emphasis on good methods and practices for deployment of real systems.
++ __Prereqs:__ MATH 323 or ECSE 205 or ECSE 305 or equivalent
++ __Restrictions:__ Not open to students who have taken or are taking COMP 451. Not open to students who have taken or are taking ECSE 551.
++ No syllabus available at this time
+
+
 ###COMP 552: Combinatorial Optimization
 + __4 credits__
 + __Not offered every year__
@@ -409,6 +449,14 @@ __Student Feedback__:
 + The theory and application of approximation algorithms. Topics include: randomized algorithms, network optimization, linear programming and semi definite programming techniques, the game theoretic method, the primal-dual method, and metric embeddings.
 + __Prereqs:__ COMP 362 or MATH 350 or permission of instructor; strong background in algorithms and/or mathematics
 + __Restriction:__ Not open to students who have taken COMP 692
++ No syllabus available at this time
+
+###COMP 555: Software Privacy
++ __4 credits__
++ __Winter__
++ Conceptual foundations of information privacy: security and cryptography, privacy by design, privacy threats. Technical controls for supporting privacy: authorization, authentication, access control, malware and intrusion detection. Application-specific privacy concerns of databases, web and mobile applications, cloud storage.
++ __Prereqs:__ COMP 303
++ __Restrictions:__ Not open to students who have taken COMP 599 when the topic was "Topics in Mobile Application Development".
 + No syllabus available at this time
 
 ###COMP 557: Fundamentals of Computer Graphics
@@ -447,12 +495,43 @@ __Student Feedback__:
 + __Restrictions:__ Not open to students who have taken COMP 562. Not open to students who are taking or have taken COMP 462. 
 + [Sample syllabus](http://cs.mcgill.ca/~jeromew/comp561/)
 
+###COMP 562: Theory of Machine Learning
++ __4 credits__
++ __Typically winter__
++ Concentration inequalities, PAC model, VC dimension, Rademacher complexity, convex optimization, gradient descent, boosting, kernels, support vector machines, regression and learning bounds. Further topics selected from: Gaussian processes, online learning, regret bounds, basic neural network theory.
++ __Prereqs:__ MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 324) or ECSE 551.
++ No syllabus available at this time
+
 ###COMP 564: Computational Gene Regulation
 + __3 credits__
 + __Not offered every year__
 + This course examines computational problems related to gene regulation at the mRNA and protein levels. With respect to mRNA expression, topics include microarray analysis, SNP detection, and the inference of genetic networks. With respect to protein expression, topics include peptide sequencing, peptide identification, and the interpretation of interaction maps.
 + __Prereqs:__ COMP 462
 + No syllabus available at this time.
+
+###COMP 579: Reinforcement Learning
++ __4 credits__
++ __Winter__
++ Bandit algorithms, finite Markov decision processes, dynamic programming, Monte-Carlo Methods, temporal-difference learning, bootstrapping, planning, approximation methods, on versus off policy learning, policy gradient methods temporal abstraction and inverse reinforcement learning.
++ __Prereqs:__ A university level course in machine learning such as COMP 451 or COMP 551. Background in calculus, linear algebra, probability at the level of MATH 222, MATH 223, MATH 323, respectively.
++ No syllabus available at this time.
+
+###COMP 585: Intelligent Software Systems
++ __4 credits__
++ __Fall__
++ Practical aspects of building software systems with machine learning components: requirements, design, delivery, quality assessment, and collaboration. Consideration of a user-centered mindset in development; integration of design and development considerations relevant to artificial intelligence, such as security, privacy, and fairness.
++ __Prereqs:__ COMP 303, COMP 424 or COMP 551
++ __Restrictions:__ Not open to students who have taken COMP 598 or COMP 599 when the topic was "Software Engineering for Building Intelligent Systems".
++ No syllabus available at this time.
+
+###COMP 588: Probabilistic Graphical Models
++ __4 credits__
++ __Winter__
++ Representation, inference and learning with graphical models; directed and undirected graphical models; exact inference; approximate inference using deterministic optimization based methods, stochastic sampling based methods; learning with complete and partial observations.
++ __Prereqs:__ COMP 251, MATH 323, MATH 324; or equivalents.
++ __Restrictions:__ Restrictions: Not open to students who have taken COMP 766 or COMP 767 when the topic was "Probabilistic Graphical Models".
++ No syllabus available at this time.
+
 
 #Requirements
 
